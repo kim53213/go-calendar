@@ -9,17 +9,33 @@ X-WR-CALDESC:所有 Pokémon GO「Pokémon GO Tour」活動，以你的當
  地時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+BEGIN:STANDARD
+DTSTART:20260602T000000Z
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20260117T060457Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 高雄 2027
-DESCRIPTION:開始時間 16:00，結束時間 15:59。\n\n英文原名：Po
+DESCRIPTION:開始時間 00:00，結束時間 23:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Kaohsiung 2027\n\nhttps://leekduck.com/events/poke
  mon-go-tour-alola-kaohsiung-2027/
 URL:https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART;VALUE=DATE:20270218
+DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270222
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -29,9 +45,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 洛杉磯 2027
-DESCRIPTION:開始時間 08:00，結束時間 07:59。\n\n英文原名：Po
+DESCRIPTION:開始時間 16:00，結束時間 15:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Los Angeles 2027\n\nhttps://leekduck.com/events/po
  kemon-go-tour-alola-los-angeles-2027/
 URL:https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
@@ -47,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 全球 2027
 DESCRIPTION:開始時間 00:00，結束時間 23:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Global 2027\n\nhttps://leekduck.com/events/pokemon
@@ -55,8 +71,8 @@ DESCRIPTION:開始時間 00:00，結束時間 23:59。\n\n英文原名：Po
 URL:https://leekduck.com/events/pokemon-go-tour-alola-global-2027/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
-DTSTART:20270227T000000
-DTEND:20270228T235959
+DTSTART;TZID=Asia/Taipei:20270227T000000
+DTEND;TZID=Asia/Taipei:20270228T235959
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Tour] Pokémon GO Tour：阿羅拉 - 全球 2027

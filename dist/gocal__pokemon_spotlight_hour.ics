@@ -9,9 +9,25 @@ X-WR-CALDESC:所有 Pokémon GO「寶可夢聚焦時刻」活動，以你
  的當地時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+BEGIN:STANDARD
+DTSTART:20260118T180000Z
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20260117T060457Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-15
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[聚焦時刻] 聚焦時刻：童偶熊
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：St
  ufful Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour20
@@ -19,8 +35,8 @@ DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：St
 URL:https://leekduck.com/events/pokemonspotlighthour2026-10-15/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART:20261015T180000
-DTEND:20261015T190000
+DTSTART;TZID=Asia/Taipei:20261015T180000
+DTEND;TZID=Asia/Taipei:20261015T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[聚焦時刻] 聚焦時刻：童偶熊
@@ -29,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[聚焦時刻] 聚焦時刻：睡睡菇
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Mo
  relull Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour2
@@ -37,8 +53,8 @@ DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Mo
 URL:https://leekduck.com/events/pokemonspotlighthour2026-10-22/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART:20261022T180000
-DTEND:20261022T190000
+DTSTART;TZID=Asia/Taipei:20261022T180000
+DTEND;TZID=Asia/Taipei:20261022T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[聚焦時刻] 聚焦時刻：睡睡菇
@@ -47,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[聚焦時刻] 聚焦時刻：鬼斯
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Ga
  stly Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -55,8 +71,8 @@ DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Ga
 URL:https://leekduck.com/events/pokemonspotlighthour2026-10-29/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
  hour.jpg
-DTSTART:20261029T180000
-DTEND:20261029T190000
+DTSTART;TZID=Asia/Taipei:20261029T180000
+DTEND;TZID=Asia/Taipei:20261029T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[聚焦時刻] 聚焦時刻：鬼斯

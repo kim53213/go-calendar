@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-24-twilight-trails
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[季節] 暮光小徑
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：Tw
  ilight Trails\n\nhttps://leekduck.com/events/season-24-twilight-trails/

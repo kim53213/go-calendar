@@ -9,18 +9,34 @@ X-WR-CALDESC:所有 Pokémon GO「Twitch Drops」活動，以你的當地
  時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+BEGIN:STANDARD
+DTSTART:20260128T103000Z
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20260117T060457Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-night-out-2026-twitch-drops
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[Twitch] Twitch Drops：Pokémon Night Out 2026
-DESCRIPTION:開始時間 02:30，結束時間 06:59。\n\n英文原名：Tw
+DESCRIPTION:開始時間 10:30，結束時間 14:59。\n\n英文原名：Tw
  itch Drops for Pokémon Night Out 2026\n\nhttps://leekduck.com/events/poke
  mon-night-out-2026-twitch-drops/
 URL:https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg
-DTSTART:20261025T023000
-DTEND:20261025T065900
+DTSTART;TZID=Asia/Taipei:20261025T103000
+DTEND;TZID=Asia/Taipei:20261025T145900
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[Twitch] Twitch Drops：Pokémon Night Out 2026

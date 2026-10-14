@@ -9,11 +9,27 @@ X-WR-CALDESC:所有 Pokémon GO「野外區域」活動，以你的當地
  時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+BEGIN:STANDARD
+DTSTART:20260217T100000Z
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20260117T060457Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[野外區域] Pokémon GO 野外區域 2026：仙台 • 東北
-DESCRIPTION:開始時間 01:00，結束時間 09:00。\n\n英文原名：Po
+DESCRIPTION:開始時間 09:00，結束時間 17:00。\n\n英文原名：Po
  kémon GO Wild Area 2026: Sendai • Tohoku\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2026-sendai-japan/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
@@ -30,15 +46,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[野外區域] Pokémon GO 野外區域 2026：墨西哥城
-DESCRIPTION:開始時間 16:00，結束時間 00:00。\n\n英文原名：Po
+DESCRIPTION:開始時間 00:00，結束時間 08:00。\n\n英文原名：Po
  kémon GO Wild Area 2026: Mexico City\n\nhttps://leekduck.com/events/pokem
  on-go-wild-area-2026-mexico-city/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg
-DTSTART;VALUE=DATE:20261106
+DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261110
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -48,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global
-DTSTAMP:20261014T041910Z
+DTSTAMP:20261014T060457Z
 SUMMARY:[野外區域] Pokémon GO 野外區域 2026：全球
 DESCRIPTION:開始時間 10:00，結束時間 18:00。\n\n英文原名：Po
  kémon GO Wild Area 2026: Global\n\nhttps://leekduck.com/events/pokemon-go
@@ -56,8 +72,8 @@ DESCRIPTION:開始時間 10:00，結束時間 18:00。\n\n英文原名：Po
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg
-DTSTART:20261114T100000
-DTEND:20261115T180000
+DTSTART;TZID=Asia/Taipei:20261114T100000
+DTEND;TZID=Asia/Taipei:20261115T180000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[野外區域] Pokémon GO 野外區域 2026：全球
