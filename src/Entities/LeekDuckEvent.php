@@ -32,8 +32,10 @@ class LeekDuckEvent
     /**
      * Create an LeekDuckEvent object from the JSON array object.
      */
-    public static function create(array $event, string $timezone = CalendarService::TIMEZONE): ?self
+    public static function create(array $event, ?string $timezone = null): ?self
     {
+        $timezone ??= CalendarService::timezone();
+
         // Skip events with null start or end dates
         if (empty($event['start']) || empty($event['end'])) {
             return null;
@@ -44,6 +46,8 @@ class LeekDuckEvent
             timezone: new \DateTimeZone(
                 timezone: $timezone
             )
+        )->setTimezone(
+            timeZone: $timezone
         );
 
         $endDate = Carbon::parse(
@@ -51,6 +55,8 @@ class LeekDuckEvent
             timezone: new \DateTimeZone(
                 timezone: $timezone
             )
+        )->setTimezone(
+            timeZone: $timezone
         );
 
         $eventDurationInDays = $startDate->diffInDays(
@@ -94,8 +100,10 @@ class LeekDuckEvent
      *
      * @return array<LeekDuckEvent>
      */
-    public static function createMany(array $events, string $timezone = CalendarService::TIMEZONE): array
+    public static function createMany(array $events, ?string $timezone = null): array
     {
+        $timezone ??= CalendarService::timezone();
+
         $parsedEvents = [];
 
         foreach ($events as $event) {
@@ -115,13 +123,17 @@ class LeekDuckEvent
     /**
      * Changes the events start and end date Carbon instances to be presented in a new timezone.
      */
-    public function changeTimezone(string $timezone = CalendarService::TIMEZONE): void
+    public function changeTimezone(?string $timezone = null): void
     {
+        $timezone ??= CalendarService::timezone();
+
         $this->startDate = Carbon::parse(
             time: $this->startDateString,
             timezone: new \DateTimeZone(
                 timezone: $timezone
             )
+        )->setTimezone(
+            timeZone: $timezone
         );
 
         $this->endDate = Carbon::parse(
@@ -129,14 +141,18 @@ class LeekDuckEvent
             timezone: new \DateTimeZone(
                 timezone: $timezone
             )
+        )->setTimezone(
+            timeZone: $timezone
         );
     }
 
     /**
      * Converts a Leek Duck event to a calendar event.
      */
-    public function asCalendarEvent(string $timezone = CalendarService::TIMEZONE): Event
+    public function asCalendarEvent(?string $timezone = null): Event
     {
+        $timezone ??= CalendarService::timezone();
+
         $this->changeTimezone(
             timezone: $timezone
         );
@@ -166,8 +182,12 @@ class LeekDuckEvent
             )
             ->endsAt(
                 ends: $this->isFullDay ? $this->endDate->copy()->addDay() : $this->endDate
-            )
-            ->withoutTimezone();
+            );
+
+        // Full day events are plain dates, which must not carry a timezone
+        if (CalendarService::isFloating() || $this->isFullDay) {
+            $calendarEvent->withoutTimezone();
+        }
 
         if ($this->isFullDay) {
             $calendarEvent->fullDay();

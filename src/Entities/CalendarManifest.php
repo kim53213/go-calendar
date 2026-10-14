@@ -23,7 +23,7 @@ class CalendarManifest
     {
         $isEverything = $eventType->key === CalendarService::EVERYTHING_CALENDAR_KEY;
 
-        return new self(
+        $manifest = new self(
             eventType: $eventType,
             calendar: Calendar::create()
                 ->name(
@@ -44,8 +44,14 @@ class CalendarManifest
                 ->refreshInterval(
                     minutes: 1440 // 1 day
                 )
-                ->withoutAutoTimezoneComponents()
-                ->withoutTimezone()
         );
+
+        if (CalendarService::isFloating()) {
+            $manifest->calendar
+                ->withoutAutoTimezoneComponents()
+                ->withoutTimezone();
+        }
+
+        return $manifest;
     }
 }

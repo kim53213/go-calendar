@@ -30,6 +30,29 @@ class CalendarService
     public const TIMEZONE = 'Atlantic/Reykjavik';
 
     /**
+     * Timezone the calendars are pinned to when GOCAL_TIMEZONE is not set. Google Calendar reads floating
+     * (timezone-less) times as UTC, so pinning to the readers' own timezone is the only way to get local times there.
+     * Set GOCAL_TIMEZONE=floating for the original timezone-less calendars.
+     */
+    public const DEFAULT_TIMEZONE = 'Asia/Taipei';
+
+    /**
+     * The timezone event times are presented in.
+     */
+    public static function timezone(): string
+    {
+        return self::isFloating() ? self::TIMEZONE : (getenv(name: 'GOCAL_TIMEZONE') ?: self::DEFAULT_TIMEZONE);
+    }
+
+    /**
+     * Whether event times are written without a timezone, to be read as the device's local time.
+     */
+    public static function isFloating(): bool
+    {
+        return getenv(name: 'GOCAL_TIMEZONE') === 'floating';
+    }
+
+    /**
      * Calendar manifest store, by event type.
      *
      * @var array<LeekDuckEventType, CalendarManifest>
