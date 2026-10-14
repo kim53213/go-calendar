@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Season (S)
-X-WR-CALNAME:GO Calendar - Season (S)
-DESCRIPTION:All Pokémon GO Season events\, in your local time\, auto-updat
- ed and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Season events\, in your local time\, auto-upda
- ted and sourced from Leek Duck.
+NAME:GO 日曆 - 季節
+X-WR-CALNAME:GO 日曆 - 季節
+DESCRIPTION:所有 Pokémon GO「季節」活動，以你的當地時間顯
+ 示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「季節」活動，以你的當地時間
+ 顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-24-twilight-trails
-DTSTAMP:20261013T061533Z
-SUMMARY:[S] Twilight Trails
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /season-24-twilight-trails/
+DTSTAMP:20261014T041910Z
+SUMMARY:[季節] 暮光小徑
+DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：Tw
+ ilight Trails\n\nhttps://leekduck.com/events/season-24-twilight-trails/
 URL:https://leekduck.com/events/season-24-twilight-trails/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-09-08-season-24-twilight-trails/season-24-twilight-trails.jpg
@@ -22,7 +22,7 @@ DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20261202
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[S] Twilight Trails
+DESCRIPTION:[季節] 暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

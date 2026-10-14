@@ -1,66 +1,66 @@
 {
     "community_day": {
-        "name": "Community Day",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
+        "name": "社群日",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
     },
     "event": {
-        "name": "Event",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__event.ics"
+        "name": "活動",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__event.ics"
     },
     "everything": {
-        "name": "Everything",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal.ics"
+        "name": "全部活動",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal.ics"
     },
     "go_battle_league": {
-        "name": "GO Battle League",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
+        "name": "GO對戰聯盟",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__go_battle_league.ics"
     },
     "go_pass": {
-        "name": "GO Pass",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__go_pass.ics"
+        "name": "GO通行證",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__go_pass.ics"
     },
     "max_battles": {
-        "name": "Max Battles",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_battles.ics"
+        "name": "極巨對戰",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__max_battles.ics"
     },
     "max_mondays": {
-        "name": "Max Mondays",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
+        "name": "極巨星期一",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
     },
     "pokemon_go_tour": {
         "name": "Pokémon GO Tour",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__pokemon_go_tour.ics"
     },
     "pokemon_spotlight_hour": {
-        "name": "Pokémon Spotlight Hour",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
+        "name": "寶可夢聚焦時刻",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__pokemon_spotlight_hour.ics"
     },
     "raid_battles": {
-        "name": "Raid Battles",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
+        "name": "團體戰",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__raid_battles.ics"
     },
     "raid_day": {
-        "name": "Raid Day",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_day.ics"
+        "name": "團體戰日",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__raid_day.ics"
     },
     "raid_hour": {
-        "name": "Raid Hour",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
+        "name": "團體戰時間",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__raid_hour.ics"
     },
     "research": {
-        "name": "Research",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
+        "name": "調查",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__research.ics"
     },
     "season": {
-        "name": "Season",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
+        "name": "季節",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
     },
     "twitch_drops": {
         "name": "Twitch Drops",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__twitch_drops.ics"
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__twitch_drops.ics"
     },
     "wild_area": {
-        "name": "Wild Area",
-        "url": "github.com\/othyn\/go-calendar\/releases\/latest\/download\/gocal__wild_area.ics"
+        "name": "野外區域",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__wild_area.ics"
     }
 }

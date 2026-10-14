@@ -1,36 +1,38 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Raid Battles (RB)
-X-WR-CALNAME:GO Calendar - Raid Battles (RB)
-DESCRIPTION:All Pokémon GO Raid Battles events\, in your local time\, auto
- -updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Raid Battles events\, in your local time\, aut
- o-updated and sourced from Leek Duck.
+NAME:GO 日曆 - 團體戰
+X-WR-CALNAME:GO 日曆 - 團體戰
+DESCRIPTION:所有 Pokémon GO「團體戰」活動，以你的當地時間
+ 顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「團體戰」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:mega-blastoise-in-mega-raids-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Mega Blastoise in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-blastoise-in-mega-raids-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 超級團體戰：超級水箭龜
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Blastoise in Mega Raids\n\nhttps://leekduck.com/events/mega-blastoise-i
+ n-mega-raids-october-2026/
 URL:https://leekduck.com/events/mega-blastoise-in-mega-raids-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261014
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Blastoise in Mega Raids
+DESCRIPTION:[團體戰] 超級團體戰：超級水箭龜
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:yveltal-in-5-star-raid-battles-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Yveltal in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /yveltal-in-5-star-raid-battles-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 五星團體戰：伊裴爾塔爾
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Yv
+ eltal in 5-star Raid Battles\n\nhttps://leekduck.com/events/yveltal-in-5-s
+ tar-raid-battles-october-2026/
 URL:https://leekduck.com/events/yveltal-in-5-star-raid-battles-october-2026
  /
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/yveltal-2.jpg
@@ -38,48 +40,51 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261014
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Yveltal in 5-star Raid Battles
+DESCRIPTION:[團體戰] 五星團體戰：伊裴爾塔爾
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:dialga-in-5-star-raid-battles-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Dialga in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /dialga-in-5-star-raid-battles-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 五星團體戰：帝牙盧卡
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Di
+ alga in 5-star Raid Battles\n\nhttps://leekduck.com/events/dialga-in-5-sta
+ r-raid-battles-october-2026/
 URL:https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261021
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Dialga in 5-star Raid Battles
+DESCRIPTION:[團體戰] 五星團體戰：帝牙盧卡
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-dragonite-in-mega-raids-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Mega Dragonite in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-dragonite-in-mega-raids-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 超級團體戰：超級快龍
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Dragonite in Mega Raids\n\nhttps://leekduck.com/events/mega-dragonite-i
+ n-mega-raids-october-2026/
 URL:https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261021
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Dragonite in Mega Raids
+DESCRIPTION:[團體戰] 超級團體戰：超級快龍
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Mega Charizard X and Mega Charizard Y in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 超級團體戰：超級噴火龍 X和超級噴火龍 Y
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Charizard X and Mega Charizard Y in Mega Raids\n\nhttps://leekduck.com/
+ events/mega-charizard-x-mega-charizard-y-in-mega-raids-october-2026/
 URL:https://leekduck.com/events/mega-charizard-x-mega-charizard-y-in-mega-r
  aids-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
@@ -87,32 +92,35 @@ DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Charizard X and Mega Charizard Y in Mega Raids
+DESCRIPTION:[團體戰] 超級團體戰：超級噴火龍 X和超級噴火
+ 龍 Y
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:palkia-in-5-star-raid-battles-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Palkia in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /palkia-in-5-star-raid-battles-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 五星團體戰：帕路奇亞
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Pa
+ lkia in 5-star Raid Battles\n\nhttps://leekduck.com/events/palkia-in-5-sta
+ r-raid-battles-october-2026/
 URL:https://leekduck.com/events/palkia-in-5-star-raid-battles-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Palkia in 5-star Raid Battles
+DESCRIPTION:[團體戰] 五星團體戰：帕路奇亞
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-landorus-incarnate-forme-in-shadow-raids-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Shadow Landorus (Incarnate Forme) in Shadow Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 暗影團體戰：暗影土地雲（化身形態）
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Sh
+ adow Landorus (Incarnate Forme) in Shadow Raids\n\nhttps://leekduck.com/ev
+ ents/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/
 URL:https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-r
  aids-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
@@ -121,16 +129,17 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Shadow Landorus (Incarnate Forme) in Shadow Raids
+DESCRIPTION:[團體戰] 暗影團體戰：暗影土地雲（化身形態）
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-origin-forme-in-5-star-raid-battles-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Giratina (Origin Forme) in 5-star Raid Battles
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /giratina-origin-forme-in-5-star-raid-battles-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 五星團體戰：騎拉帝納（起源形態）
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Gi
+ ratina (Origin Forme) in 5-star Raid Battles\n\nhttps://leekduck.com/event
+ s/giratina-origin-forme-in-5-star-raid-battles-october-2026/
 URL:https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battle
  s-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/giratinaoriginfo
@@ -139,23 +148,24 @@ DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Giratina (Origin Forme) in 5-star Raid Battles
+DESCRIPTION:[團體戰] 五星團體戰：騎拉帝納（起源形態）
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RB] Mega Sableye in Mega Raids
-DESCRIPTION:Starts at 06:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /mega-sableye-in-mega-raids-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰] 超級團體戰：超級勾魂眼
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Sableye in Mega Raids\n\nhttps://leekduck.com/events/mega-sableye-in-me
+ ga-raids-october-2026/
 URL:https://leekduck.com/events/mega-sableye-in-mega-raids-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RB] Mega Sableye in Mega Raids
+DESCRIPTION:[團體戰] 超級團體戰：超級勾魂眼
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -1,27 +1,28 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Community Day (CD)
-X-WR-CALNAME:GO Calendar - Community Day (CD)
-DESCRIPTION:All Pokémon GO Community Day events\, in your local time\, aut
- o-updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Community Day events\, in your local time\, au
- to-updated and sourced from Leek Duck.
+NAME:GO 日曆 - 社群日
+X-WR-CALNAME:GO 日曆 - 社群日
+DESCRIPTION:所有 Pokémon GO「社群日」活動，以你的當地時間
+ 顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「社群日」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:november-communityday2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[CD] November Community Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /november-communityday2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[社群日] 11月社群日
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：No
+ vember Community Day\n\nhttps://leekduck.com/events/november-communityday2
+ 026/
 URL:https://leekduck.com/events/november-communityday2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
 DTSTART:20261121T140000
 DTEND:20261121T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CD] November Community Day
+DESCRIPTION:[社群日] 11月社群日
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

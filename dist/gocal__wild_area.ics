@@ -1,19 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Wild Area (WA)
-X-WR-CALNAME:GO Calendar - Wild Area (WA)
-DESCRIPTION:All Pokémon GO Wild Area events\, in your local time\, auto-up
- dated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Wild Area events\, in your local time\, auto-u
- pdated and sourced from Leek Duck.
+NAME:GO 日曆 - 野外區域
+X-WR-CALNAME:GO 日曆 - 野外區域
+DESCRIPTION:所有 Pokémon GO「野外區域」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「野外區域」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan
-DTSTAMP:20261013T061533Z
-SUMMARY:[WA] Pokémon GO Wild Area 2026: Sendai • Tohoku
-DESCRIPTION:Starts at 01:00\, ends at 09:00.\n\nhttps://leekduck.com/events
+DTSTAMP:20261014T041910Z
+SUMMARY:[野外區域] Pokémon GO 野外區域 2026：仙台 • 東北
+DESCRIPTION:開始時間 01:00，結束時間 09:00。\n\n英文原名：Po
+ kémon GO Wild Area 2026: Sendai • Tohoku\n\nhttps://leekduck.com/events
  /pokemon-go-wild-area-2026-sendai-japan/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai-japan/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
@@ -22,16 +23,18 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Sendai • Tohoku
+DESCRIPTION:[野外區域] Pokémon GO 野外區域 2026：仙台 • 東
+ 北
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city
-DTSTAMP:20261013T061533Z
-SUMMARY:[WA] Pokémon GO Wild Area 2026: Mexico City
-DESCRIPTION:Starts at 16:00\, ends at 00:00.\n\nhttps://leekduck.com/events
- /pokemon-go-wild-area-2026-mexico-city/
+DTSTAMP:20261014T041910Z
+SUMMARY:[野外區域] Pokémon GO 野外區域 2026：墨西哥城
+DESCRIPTION:開始時間 16:00，結束時間 00:00。\n\n英文原名：Po
+ kémon GO Wild Area 2026: Mexico City\n\nhttps://leekduck.com/events/pokem
+ on-go-wild-area-2026-mexico-city/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico-city/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg
@@ -39,16 +42,17 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261110
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Mexico City
+DESCRIPTION:[野外區域] Pokémon GO 野外區域 2026：墨西哥城
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global
-DTSTAMP:20261013T061533Z
-SUMMARY:[WA] Pokémon GO Wild Area 2026: Global
-DESCRIPTION:Starts at 10:00\, ends at 18:00.\n\nhttps://leekduck.com/events
- /pokemon-go-wild-area-2026-global/
+DTSTAMP:20261014T041910Z
+SUMMARY:[野外區域] Pokémon GO 野外區域 2026：全球
+DESCRIPTION:開始時間 10:00，結束時間 18:00。\n\n英文原名：Po
+ kémon GO Wild Area 2026: Global\n\nhttps://leekduck.com/events/pokemon-go
+ -wild-area-2026-global/
 URL:https://leekduck.com/events/pokemon-go-wild-area-2026-global/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg
@@ -56,7 +60,7 @@ DTSTART:20261114T100000
 DTEND:20261115T180000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[WA] Pokémon GO Wild Area 2026: Global
+DESCRIPTION:[野外區域] Pokémon GO 野外區域 2026：全球
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

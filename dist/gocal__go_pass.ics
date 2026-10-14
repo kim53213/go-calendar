@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - GO Pass (GP)
-X-WR-CALNAME:GO Calendar - GO Pass (GP)
-DESCRIPTION:All Pokémon GO GO Pass events\, in your local time\, auto-upda
- ted and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO GO Pass events\, in your local time\, auto-upd
- ated and sourced from Leek Duck.
+NAME:GO 日曆 - GO通行證
+X-WR-CALNAME:GO 日曆 - GO通行證
+DESCRIPTION:所有 Pokémon GO「GO通行證」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「GO通行證」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[GP] GO Pass: October
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /go-pass-october-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[通行證] GO通行證：10月
+DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：GO
+  Pass: October\n\nhttps://leekduck.com/events/go-pass-october-2026/
 URL:https://leekduck.com/events/go-pass-october-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-10-06-go-pass-october-2026/go-pass-october-2026.jpg
@@ -22,7 +22,7 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GP] GO Pass: October
+DESCRIPTION:[通行證] GO通行證：10月
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

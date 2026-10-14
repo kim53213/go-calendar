@@ -1,37 +1,39 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Raid Day (RD)
-X-WR-CALNAME:GO Calendar - Raid Day (RD)
-DESCRIPTION:All Pokémon GO Raid Day events\, in your local time\, auto-upd
- ated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Raid Day events\, in your local time\, auto-up
- dated and sourced from Leek Duck.
+NAME:GO 日曆 - 團體戰日
+X-WR-CALNAME:GO 日曆 - 團體戰日
+DESCRIPTION:所有 Pokémon GO「團體戰日」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「團體戰日」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:super-mega-raid-day-october-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RD] Super Mega Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /super-mega-raid-day-october-2026/
-URL:https://leekduck.com/events/super-mega-raid-day-october-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
+UID:chandelure-super-mega-raid-day-2026
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰日] 超級進化團體戰日：水晶燈火靈
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ch
+ andelure Super Mega Raid Day\n\nhttps://leekduck.com/events/chandelure-sup
+ er-mega-raid-day-2026/
+URL:https://leekduck.com/events/chandelure-super-mega-raid-day-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/chandelure-super
+ -mega-raid-day-2026.jpg
 DTSTART:20261031T140000
 DTEND:20261031T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Super Mega Raid Day
+DESCRIPTION:[團體戰日] 超級進化團體戰日：水晶燈火靈
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[RD] Super Mega Raid Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /super-mega-raid-day-november-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[團體戰日] 超級進化團體戰日
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Su
+ per Mega Raid Day\n\nhttps://leekduck.com/events/super-mega-raid-day-novem
+ ber-2026/
 URL:https://leekduck.com/events/super-mega-raid-day-november-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
@@ -39,7 +41,7 @@ DTSTART:20261128T140000
 DTEND:20261128T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[RD] Super Mega Raid Day
+DESCRIPTION:[團體戰日] 超級進化團體戰日
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -1,20 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Max Battles (MB)
-X-WR-CALNAME:GO Calendar - Max Battles (MB)
-DESCRIPTION:All Pokémon GO Max Battles events\, in your local time\, auto-
- updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Max Battles events\, in your local time\, auto
- -updated and sourced from Leek Duck.
+NAME:GO 日曆 - 極巨對戰
+X-WR-CALNAME:GO 日曆 - 極巨對戰
+DESCRIPTION:所有 Pokémon GO「極巨對戰」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「極巨對戰」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[MB] Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
-DESCRIPTION:Starts at 14:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /dynamax-uxie-mesprit-azelf-max-battle-day-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[極巨對戰] 極巨對戰日：極巨由克希、艾姆利多、
+ 亞克諾姆
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Dy
+ namax Uxie\, Mesprit\, and Azelf Max Battle Day\n\nhttps://leekduck.com/ev
+ ents/dynamax-uxie-mesprit-azelf-max-battle-day-2026/
 URL:https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2
  026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
@@ -24,7 +26,8 @@ DTSTART:20261024T140000
 DTEND:20261024T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MB] Dynamax Uxie\, Mesprit\, and Azelf Max Battle Day
+DESCRIPTION:[極巨對戰] 極巨對戰日：極巨由克希、艾姆利多
+ 、亞克諾姆
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Pokémon GO Tour (PGT)
-X-WR-CALNAME:GO Calendar - Pokémon GO Tour (PGT)
-DESCRIPTION:All Pokémon GO Pokémon GO Tour events\, in your local time\, 
- auto-updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Pokémon GO Tour events\, in your local time\,
-  auto-updated and sourced from Leek Duck.
+NAME:GO 日曆 - Pokémon GO Tour
+X-WR-CALNAME:GO 日曆 - Pokémon GO Tour
+DESCRIPTION:所有 Pokémon GO「Pokémon GO Tour」活動，以你的當
+ 地時間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「Pokémon GO Tour」活動，以你的當
+ 地時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027
-DTSTAMP:20261013T061533Z
-SUMMARY:[PGT] Pokémon GO Tour: Alola - Kaohsiung 2027
-DESCRIPTION:Starts at 16:00\, ends at 15:59.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-alola-kaohsiung-2027/
+DTSTAMP:20261014T041910Z
+SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 高雄 2027
+DESCRIPTION:開始時間 16:00，結束時間 15:59。\n\n英文原名：Po
+ kémon GO Tour: Alola - Kaohsiung 2027\n\nhttps://leekduck.com/events/poke
+ mon-go-tour-alola-kaohsiung-2027/
 URL:https://leekduck.com/events/pokemon-go-tour-alola-kaohsiung-2027/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
@@ -22,16 +23,17 @@ DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270222
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Alola - Kaohsiung 2027
+DESCRIPTION:[Tour] Pokémon GO Tour：阿羅拉 - 高雄 2027
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027
-DTSTAMP:20261013T061533Z
-SUMMARY:[PGT] Pokémon GO Tour: Alola - Los Angeles 2027
-DESCRIPTION:Starts at 08:00\, ends at 07:59.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-alola-los-angeles-2027/
+DTSTAMP:20261014T041910Z
+SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 洛杉磯 2027
+DESCRIPTION:開始時間 08:00，結束時間 07:59。\n\n英文原名：Po
+ kémon GO Tour: Alola - Los Angeles 2027\n\nhttps://leekduck.com/events/po
+ kemon-go-tour-alola-los-angeles-2027/
 URL:https://leekduck.com/events/pokemon-go-tour-alola-los-angeles-2027/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
@@ -39,16 +41,17 @@ DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270223
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Alola - Los Angeles 2027
+DESCRIPTION:[Tour] Pokémon GO Tour：阿羅拉 - 洛杉磯 2027
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027
-DTSTAMP:20261013T061533Z
-SUMMARY:[PGT] Pokémon GO Tour: Alola - Global 2027
-DESCRIPTION:Starts at 00:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /pokemon-go-tour-alola-global-2027/
+DTSTAMP:20261014T041910Z
+SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 全球 2027
+DESCRIPTION:開始時間 00:00，結束時間 23:59。\n\n英文原名：Po
+ kémon GO Tour: Alola - Global 2027\n\nhttps://leekduck.com/events/pokemon
+ -go-tour-alola-global-2027/
 URL:https://leekduck.com/events/pokemon-go-tour-alola-global-2027/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
  mg.jpg
@@ -56,7 +59,7 @@ DTSTART:20270227T000000
 DTEND:20270228T235959
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[PGT] Pokémon GO Tour: Alola - Global 2027
+DESCRIPTION:[Tour] Pokémon GO Tour：阿羅拉 - 全球 2027
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

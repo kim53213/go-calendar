@@ -1,37 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Max Mondays (MM)
-X-WR-CALNAME:GO Calendar - Max Mondays (MM)
-DESCRIPTION:All Pokémon GO Max Mondays events\, in your local time\, auto-
- updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Max Mondays events\, in your local time\, auto
- -updated and sourced from Leek Duck.
+NAME:GO 日曆 - 極巨星期一
+X-WR-CALNAME:GO 日曆 - 極巨星期一
+DESCRIPTION:所有 Pokémon GO「極巨星期一」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「極巨星期一」活動，以你的當
+ 地時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:max-mondays-2026-10-12
-DTSTAMP:20261013T061533Z
-SUMMARY:[MM] Dynamax Rookidee during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-10-12/
-URL:https://leekduck.com/events/max-mondays-2026-10-12/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
- o.jpg
-DTSTART:20261012T060000
-DTEND:20261012T210000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Rookidee during Max Monday
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-mondays-2026-10-19
-DTSTAMP:20261013T061533Z
-SUMMARY:[MM] Dynamax Sneasel during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-10-19/
+DTSTAMP:20261014T041910Z
+SUMMARY:[極巨一] 極巨星期一：極巨狃拉
+DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
+ namax Sneasel during Max Monday\n\nhttps://leekduck.com/events/max-mondays
+ -2026-10-19/
 URL:https://leekduck.com/events/max-mondays-2026-10-19/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
@@ -39,16 +23,17 @@ DTSTART:20261019T060000
 DTEND:20261019T210000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Sneasel during Max Monday
+DESCRIPTION:[極巨一] 極巨星期一：極巨狃拉
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-10-26
-DTSTAMP:20261013T061533Z
-SUMMARY:[MM] Dynamax Sableye during Max Monday
-DESCRIPTION:Starts at 06:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /max-mondays-2026-10-26/
+DTSTAMP:20261014T041910Z
+SUMMARY:[極巨一] 極巨星期一：極巨勾魂眼
+DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
+ namax Sableye during Max Monday\n\nhttps://leekduck.com/events/max-mondays
+ -2026-10-26/
 URL:https://leekduck.com/events/max-mondays-2026-10-26/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
@@ -56,7 +41,7 @@ DTSTART:20261026T060000
 DTEND:20261026T210000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[MM] Dynamax Sableye during Max Monday
+DESCRIPTION:[極巨一] 極巨星期一：極巨勾魂眼
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

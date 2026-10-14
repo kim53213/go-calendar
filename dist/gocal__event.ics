@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Event (E)
-X-WR-CALNAME:GO Calendar - Event (E)
-DESCRIPTION:All Pokémon GO Event events\, in your local time\, auto-update
- d and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Event events\, in your local time\, auto-updat
- ed and sourced from Leek Duck.
+NAME:GO 日曆 - 活動
+X-WR-CALNAME:GO 日曆 - 活動
+DESCRIPTION:所有 Pokémon GO「活動」活動，以你的當地時間顯
+ 示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「活動」活動，以你的當地時間
+ 顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Sandile Hatch Day
-DESCRIPTION:Starts at 11:00\, ends at 17:00.\n\nhttps://leekduck.com/events
- /sandile-hatch-day-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] 孵化日：黑眼鱷
+DESCRIPTION:開始時間 11:00，結束時間 17:00。\n\n英文原名：Sa
+ ndile Hatch Day\n\nhttps://leekduck.com/events/sandile-hatch-day-2026/
 URL:https://leekduck.com/events/sandile-hatch-day-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-10-17-sandile-hatch-day-2026/sandile-hatch-day-2026.jpg
@@ -22,16 +22,17 @@ DTSTART:20261017T110000
 DTEND:20261017T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Sandile Hatch Day
+DESCRIPTION:[活動] 孵化日：黑眼鱷
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Fall Marathon: Buddy Trek
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /fall-marathon-buddy-trek-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] 秋季馬拉松：夥伴旅程
+DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Fa
+ ll Marathon: Buddy Trek\n\nhttps://leekduck.com/events/fall-marathon-buddy
+ -trek-2026/
 URL:https://leekduck.com/events/fall-marathon-buddy-trek-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-10-13-fall-marathon-buddy-trek-2026/fall-marathon-buddy-trek-2026
@@ -40,16 +41,17 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261020
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Fall Marathon: Buddy Trek
+DESCRIPTION:[活動] 秋季馬拉松：夥伴旅程
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-tcg-30th-celebration
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Pokémon TCG: 30th Celebration
-DESCRIPTION:Starts at 10:00\, ends at 22:00.\n\nhttps://leekduck.com/events
- /pokemon-tcg-30th-celebration/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] Pokémon TCG：30th 慶典
+DESCRIPTION:開始時間 10:00，結束時間 22:00。\n\n英文原名：Po
+ kémon TCG: 30th Celebration\n\nhttps://leekduck.com/events/pokemon-tcg-30
+ th-celebration/
 URL:https://leekduck.com/events/pokemon-tcg-30th-celebration/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-09-27-pokemon-tcg-30th-celebration/pokemon-tcg-30th-celebration.j
@@ -58,16 +60,17 @@ DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20261021
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon TCG: 30th Celebration
+DESCRIPTION:[活動] Pokémon TCG：30th 慶典
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-orionids-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Minior Showers: Orionids 2026
-DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /minior-showers-orionids-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] 小隕星流星雨：獵戶座 2026
+DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
+ nior Showers: Orionids 2026\n\nhttps://leekduck.com/events/minior-showers-
+ orionids-2026/
 URL:https://leekduck.com/events/minior-showers-orionids-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
  026.jpg
@@ -75,16 +78,17 @@ DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261025
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Minior Showers: Orionids 2026
+DESCRIPTION:[活動] 小隕星流星雨：獵戶座 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Pokémon GO Halloween 2026 Part I
-DESCRIPTION:Starts at 10:00\, ends at 10:00.\n\nhttps://leekduck.com/events
- /halloween-2026-part-1/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] Pokémon GO 萬聖節 2026 第一部分
+DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：Po
+ kémon GO Halloween 2026 Part I\n\nhttps://leekduck.com/events/halloween-2
+ 026-part-1/
 URL:https://leekduck.com/events/halloween-2026-part-1/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-10-27-halloween-2026-part-1/halloween-2026-part-1.jpg
@@ -92,16 +96,17 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261102
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon GO Halloween 2026 Part I
+DESCRIPTION:[活動] Pokémon GO 萬聖節 2026 第一部分
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Pokémon GO Halloween 2026 Part II
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /halloween-2026-part-2/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] Pokémon GO 萬聖節 2026 第二部分
+DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Po
+ kémon GO Halloween 2026 Part II\n\nhttps://leekduck.com/events/halloween-
+ 2026-part-2/
 URL:https://leekduck.com/events/halloween-2026-part-2/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-11-01-halloween-2026-part-2/halloween-2026-part-2.jpg
@@ -109,16 +114,17 @@ DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261106
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Pokémon GO Halloween 2026 Part II
+DESCRIPTION:[活動] Pokémon GO 萬聖節 2026 第二部分
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-leonids-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Minior Showers: Leonids 2026
-DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /minior-showers-leonids-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] 小隕星流星雨：獅子座 2026
+DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
+ nior Showers: Leonids 2026\n\nhttps://leekduck.com/events/minior-showers-l
+ eonids-2026/
 URL:https://leekduck.com/events/minior-showers-leonids-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
  026.jpg
@@ -126,16 +132,17 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261120
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Minior Showers: Leonids 2026
+DESCRIPTION:[活動] 小隕星流星雨：獅子座 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Minior Showers: Geminids 2026
-DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /minior-showers-geminids-2026/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] 小隕星流星雨：雙子座 2026
+DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
+ nior Showers: Geminids 2026\n\nhttps://leekduck.com/events/minior-showers-
+ geminids-2026/
 URL:https://leekduck.com/events/minior-showers-geminids-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
  026.jpg
@@ -143,16 +150,17 @@ DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261217
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Minior Showers: Geminids 2026
+DESCRIPTION:[活動] 小隕星流星雨：雙子座 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Minior Showers: Eta Aquariids 2027
-DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /minior-showers-eta-aquariids-2027/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] 小隕星流星雨：寶瓶座η 2027
+DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
+ nior Showers: Eta Aquariids 2027\n\nhttps://leekduck.com/events/minior-sho
+ wers-eta-aquariids-2027/
 URL:https://leekduck.com/events/minior-showers-eta-aquariids-2027/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
  026.jpg
@@ -160,15 +168,16 @@ DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270509
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Minior Showers: Eta Aquariids 2027
+DESCRIPTION:[活動] 小隕星流星雨：寶瓶座η 2027
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Minior Showers: Southern Delta Aquariids 2027
-DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] 小隕星流星雨：南寶瓶座δ 2027
+DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
+ nior Showers: Southern Delta Aquariids 2027\n\nhttps://leekduck.com/events
  /minior-showers-southern-delta-aquariids-2027/
 URL:https://leekduck.com/events/minior-showers-southern-delta-aquariids-202
  7/
@@ -178,16 +187,17 @@ DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270803
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Minior Showers: Southern Delta Aquariids 2027
+DESCRIPTION:[活動] 小隕星流星雨：南寶瓶座δ 2027
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261013T061533Z
-SUMMARY:[E] Minior Showers: Perseids 2027
-DESCRIPTION:Starts at 17:00\, ends at 23:59.\n\nhttps://leekduck.com/events
- /minior-showers-perseids-2027/
+DTSTAMP:20261014T041910Z
+SUMMARY:[活動] 小隕星流星雨：英仙座 2027
+DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
+ nior Showers: Perseids 2027\n\nhttps://leekduck.com/events/minior-showers-
+ perseids-2027/
 URL:https://leekduck.com/events/minior-showers-perseids-2027/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/minior-showers-2
  026.jpg
@@ -195,7 +205,7 @@ DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270816
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[E] Minior Showers: Perseids 2027
+DESCRIPTION:[活動] 小隕星流星雨：英仙座 2027
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

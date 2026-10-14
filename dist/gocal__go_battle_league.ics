@@ -1,23 +1,25 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - GO Battle League (GBL)
-X-WR-CALNAME:GO Calendar - GO Battle League (GBL)
-DESCRIPTION:All Pokémon GO GO Battle League events\, in your local time\, 
- auto-updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO GO Battle League events\, in your local time\,
-  auto-updated and sourced from Leek Duck.
+NAME:GO 日曆 - GO對戰聯盟
+X-WR-CALNAME:GO 日曆 - GO對戰聯盟
+DESCRIPTION:所有 Pokémon GO「GO對戰聯盟」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「GO對戰聯盟」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-2
-DTSTAMP:20261013T061533Z
-SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
-  Master League: Mega Edition | Twilight Trails
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_m
- aster-league-mega-edition-split-2/
+DTSTAMP:20261014T041910Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
+ 級進化版、大師聯盟：超級進化版｜暮光小徑
+DESCRIPTION:開始時間 20:00，結束時間 20:00。\n\n英文原名：Gr
+ eat League: Mega Edition\, Ultra League: Mega Edition\, and Master League:
+  Mega Edition | Twilight Trails\n\nhttps://leekduck.com/events/gbl-twiligh
+ t-trails_great-league-mega-edition_ultra-league-mega-edition_master-league
+ -mega-edition-split-2/
 URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-editi
  on_ultra-league-mega-edition_master-league-mega-edition-split-2/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
@@ -26,18 +28,20 @@ DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261014
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
-  and Master League: Mega Edition | Twilight Trails
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：
+ 超級進化版、大師聯盟：超級進化版｜暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup
-DTSTAMP:20261013T061533Z
-SUMMARY:[GBL] Great League\, Ultra League: Mega Edition\, and Little Cup | 
- Twilight Trails
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup/
+DTSTAMP:20261014T041910Z
+SUMMARY:[對戰聯盟] 超級聯盟、高級聯盟：超級進化版、小
+ 小盃｜暮光小徑
+DESCRIPTION:開始時間 20:00，結束時間 20:00。\n\n英文原名：Gr
+ eat League\, Ultra League: Mega Edition\, and Little Cup | Twilight Trails
+ \n\nhttps://leekduck.com/events/gbl-twilight-trails_great-league_ultra-lea
+ gue-mega-edition_little-cup/
 URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
  ue-mega-edition_little-cup/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
@@ -46,20 +50,22 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261021
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League: Mega Edition\, and Little Cu
- p | Twilight Trails
+DESCRIPTION:[對戰聯盟] 超級聯盟、高級聯盟：超級進化版、
+ 小小盃｜暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup
  -great-league-edition
-DTSTAMP:20261013T061533Z
-SUMMARY:[GBL] Ultra League\, Master League: Mega Edition\, and Fantasy Cup:
-  Great League Edition | Twilight Trails
-DESCRIPTION:Starts at 20:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup-g
- reat-league-edition/
+DTSTAMP:20261014T041910Z
+SUMMARY:[對戰聯盟] 高級聯盟、大師聯盟：超級進化版、幻
+ 想盃：超級聯盟版｜暮光小徑
+DESCRIPTION:開始時間 20:00，結束時間 20:00。\n\n英文原名：Ul
+ tra League\, Master League: Mega Edition\, and Fantasy Cup: Great League E
+ dition | Twilight Trails\n\nhttps://leekduck.com/events/gbl-twilight-trail
+ s_ultra-league_master-league-mega-edition_fantasy-cup-great-league-edition
+ /
 URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
  gue-mega-edition_fantasy-cup-great-league-edition/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
@@ -68,20 +74,21 @@ DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Ultra League\, Master League: Mega Edition\, and Fantasy 
- Cup: Great League Edition | Twilight Trails
+DESCRIPTION:[對戰聯盟] 高級聯盟、大師聯盟：超級進化版、
+ 幻想盃：超級聯盟版｜暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-halloween-cup-great-league-editi
  on
-DTSTAMP:20261013T061533Z
-SUMMARY:[GBL] Master League and Mega Halloween Cup: Great League Edition | 
- Twilight Trails
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_master-league_mega-halloween-cup-great-league-edition
- /
+DTSTAMP:20261014T041910Z
+SUMMARY:[對戰聯盟] 大師聯盟和超級萬聖節盃：超級聯盟版
+ ｜暮光小徑
+DESCRIPTION:開始時間 21:00，結束時間 21:00。\n\n英文原名：Ma
+ ster League and Mega Halloween Cup: Great League Edition | Twilight Trails
+ \n\nhttps://leekduck.com/events/gbl-twilight-trails_master-league_mega-hal
+ loween-cup-great-league-edition/
 URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-hall
  oween-cup-great-league-edition/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
@@ -90,20 +97,22 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Master League and Mega Halloween Cup: Great League Editio
- n | Twilight Trails
+DESCRIPTION:[對戰聯盟] 大師聯盟和超級萬聖節盃：超級聯盟
+ 版｜暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-3
-DTSTAMP:20261013T061533Z
-SUMMARY:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\, and
-  Master League: Mega Edition | Twilight Trails
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition_m
- aster-league-mega-edition-split-3/
+DTSTAMP:20261014T041910Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
+ 級進化版、大師聯盟：超級進化版｜暮光小徑
+DESCRIPTION:開始時間 21:00，結束時間 21:00。\n\n英文原名：Gr
+ eat League: Mega Edition\, Ultra League: Mega Edition\, and Master League:
+  Mega Edition | Twilight Trails\n\nhttps://leekduck.com/events/gbl-twiligh
+ t-trails_great-league-mega-edition_ultra-league-mega-edition_master-league
+ -mega-edition-split-3/
 URL:https://leekduck.com/events/gbl-twilight-trails_great-league-mega-editi
  on_ultra-league-mega-edition_master-league-mega-edition-split-3/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
@@ -112,20 +121,21 @@ DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261111
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League: Mega Edition\, Ultra League: Mega Edition\,
-  and Master League: Mega Edition | Twilight Trails
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：
+ 超級進化版、大師聯盟：超級進化版｜暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic
  -cup
-DTSTAMP:20261013T061533Z
-SUMMARY:[GBL] Great League\, Ultra League: Mega Edition\, and 2026 GO LAIC 
- Cup | Twilight Trails
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic-c
- up/
+DTSTAMP:20261014T041910Z
+SUMMARY:[對戰聯盟] 超級聯盟、高級聯盟：超級進化版、2026
+  GO LAIC 盃｜暮光小徑
+DESCRIPTION:開始時間 21:00，結束時間 21:00。\n\n英文原名：Gr
+ eat League\, Ultra League: Mega Edition\, and 2026 GO LAIC Cup | Twilight 
+ Trails\n\nhttps://leekduck.com/events/gbl-twilight-trails_great-league_ult
+ ra-league-mega-edition_2026-go-laic-cup/
 URL:https://leekduck.com/events/gbl-twilight-trails_great-league_ultra-leag
  ue-mega-edition_2026-go-laic-cup/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
@@ -134,20 +144,21 @@ DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261118
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Great League\, Ultra League: Mega Edition\, and 2026 GO L
- AIC Cup | Twilight Trails
+DESCRIPTION:[對戰聯盟] 超級聯盟、高級聯盟：超級進化版、
+ 2026 GO LAIC 盃｜暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
  c-cup
-DTSTAMP:20261013T061533Z
-SUMMARY:[GBL] Ultra League\, Master League: Mega Edition\, and 2026 GO LAIC
-  Cup | Twilight Trails
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-laic-
- cup/
+DTSTAMP:20261014T041910Z
+SUMMARY:[對戰聯盟] 高級聯盟、大師聯盟：超級進化版、2026
+  GO LAIC 盃｜暮光小徑
+DESCRIPTION:開始時間 21:00，結束時間 21:00。\n\n英文原名：Ul
+ tra League\, Master League: Mega Edition\, and 2026 GO LAIC Cup | Twilight
+  Trails\n\nhttps://leekduck.com/events/gbl-twilight-trails_ultra-league_ma
+ ster-league-mega-edition_2026-go-laic-cup/
 URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
  gue-mega-edition_2026-go-laic-cup/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
@@ -156,18 +167,20 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261126
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Ultra League\, Master League: Mega Edition\, and 2026 GO 
- LAIC Cup | Twilight Trails
+DESCRIPTION:[對戰聯盟] 高級聯盟、大師聯盟：超級進化版、
+ 2026 GO LAIC 盃｜暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition
-DTSTAMP:20261013T061533Z
-SUMMARY:[GBL] Master League and Mega Catch Cup: Great League Edition | Twil
- ight Trails
-DESCRIPTION:Starts at 21:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition/
+DTSTAMP:20261014T041910Z
+SUMMARY:[對戰聯盟] 大師聯盟和超級捕捉盃：超級聯盟版｜
+ 暮光小徑
+DESCRIPTION:開始時間 21:00，結束時間 21:00。\n\n英文原名：Ma
+ ster League and Mega Catch Cup: Great League Edition | Twilight Trails\n\n
+ https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-c
+ up-great-league-edition/
 URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catc
  h-cup-great-league-edition/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
@@ -176,8 +189,8 @@ DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261202
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[GBL] Master League and Mega Catch Cup: Great League Edition | 
- Twilight Trails
+DESCRIPTION:[對戰聯盟] 大師聯盟和超級捕捉盃：超級聯盟版
+ ｜暮光小徑
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

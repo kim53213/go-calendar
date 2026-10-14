@@ -1,20 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Twitch Drops (TD)
-X-WR-CALNAME:GO Calendar - Twitch Drops (TD)
-DESCRIPTION:All Pokémon GO Twitch Drops events\, in your local time\, auto
- -updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Twitch Drops events\, in your local time\, aut
- o-updated and sourced from Leek Duck.
+NAME:GO 日曆 - Twitch Drops
+X-WR-CALNAME:GO 日曆 - Twitch Drops
+DESCRIPTION:所有 Pokémon GO「Twitch Drops」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「Twitch Drops」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-night-out-2026-twitch-drops
-DTSTAMP:20261013T061533Z
-SUMMARY:[TD] Twitch Drops for Pokémon Night Out 2026
-DESCRIPTION:Starts at 02:30\, ends at 06:59.\n\nhttps://leekduck.com/events
- /pokemon-night-out-2026-twitch-drops/
+DTSTAMP:20261014T041910Z
+SUMMARY:[Twitch] Twitch Drops：Pokémon Night Out 2026
+DESCRIPTION:開始時間 02:30，結束時間 06:59。\n\n英文原名：Tw
+ itch Drops for Pokémon Night Out 2026\n\nhttps://leekduck.com/events/poke
+ mon-night-out-2026-twitch-drops/
 URL:https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
  026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg
@@ -22,7 +23,7 @@ DTSTART:20261025T023000
 DTEND:20261025T065900
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TD] Twitch Drops for Pokémon Night Out 2026
+DESCRIPTION:[Twitch] Twitch Drops：Pokémon Night Out 2026
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
