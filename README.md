@@ -11,6 +11,22 @@ Pokémon GO calendar on your phone (iOS & Android) or computer (Linux, macOS & W
 
 Take a look at [the website](https://gocalendar.info/) to get setup with the calendar.
 
+# 中文版說明
+
+這個 fork 會把活動名稱、日曆名稱和說明翻成繁體中文。翻譯分成兩部分：
+
+- `translations/zh-Hant/pokemon.json`：寶可夢英文名 → 官方中文名，由 [PokeAPI](https://github.com/PokeAPI/pokeapi) 自動產生（`bin/gocal pokemon-names`），不用手動編輯。
+- `translations/zh-Hant/translations.json`：手動維護的對照表，包含
+  - `event_types`：活動分類名稱
+  - `patterns`：整句的翻譯樣式（例如 `X Spotlight Hour` → `聚焦時刻：X`）
+  - `terms`：一般詞彙（例如 `Community Day` → `社群日`）
+  - `connectors`：連接詞與標點
+  - `strings`：日曆名稱、活動說明等固定文字
+
+沒有對到的字會保留英文，看到哪裡沒翻好，在 `terms` 加一行就好。活動說明裡會附上英文原名方便對照。
+
+設定環境變數 `GOCAL_LOCALE=en` 可以產生原本的英文版。
+
 # Sources & Credit
 
 All events are sourced from [Leek Duck](https://leekduck.com/events/)

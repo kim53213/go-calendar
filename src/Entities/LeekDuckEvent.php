@@ -6,6 +6,7 @@ namespace Console\Entities;
 
 use Carbon\Carbon;
 use Console\Services\CalendarService;
+use Console\Services\TranslationService;
 use Spatie\IcalendarGenerator\Components\Event;
 
 class LeekDuckEvent
@@ -64,8 +65,17 @@ class LeekDuckEvent
         return new self(
             eventId: $event['eventID'],
             name: $event['name'],
-            title: '[' . acronymForEventType($eventType) . "] {$event['name']}",
-            description: 'Starts at ' . $startDate->format(format: 'H:i') . ', ends at ' . $endDate->format(format: 'H:i') . ".\n\n{$event['link']}",
+            title: '[' . acronymForEventType($eventType) . '] ' . TranslationService::text(text: $event['name']),
+            description: TranslationService::string(
+                key: 'event.description',
+                english: "Starts at {start}, ends at {end}.\n\n{link}",
+                replace: [
+                    'start' => $startDate->format(format: 'H:i'),
+                    'end' => $endDate->format(format: 'H:i'),
+                    'name' => $event['name'],
+                    'link' => $event['link'],
+                ]
+            ),
             type: $eventType,
             link: $event['link'],
             imageUrl: $event['image'],

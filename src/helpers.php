@@ -36,6 +36,11 @@ if (! function_exists(function: 'acronym')) {
 if (! function_exists(function: 'acronymForEventType')) {
     function acronymForEventType(LeekDuckEventType $eventType): string
     {
+        // Translated event types carry their own short label, as Chinese has no words to take letters from
+        if ($eventType->short !== null) {
+            return $eventType->short;
+        }
+
         // Otherwise it clashes with Raid Battles (RB)
         return acronym(
             string: $eventType->title == 'Research Breakthrough'

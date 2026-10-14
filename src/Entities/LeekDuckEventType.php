@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Console\Entities;
 
 use Console\Services\CalendarService;
+use Console\Services\TranslationService;
 
 class LeekDuckEventType
 {
@@ -14,18 +15,29 @@ class LeekDuckEventType
     public const BASE_LOCAL_PATH = __DIR__ . '/../../dist/';
 
     /**
-     * The base download URL to the hosted ICS assets.
+     * The repository the hosted ICS assets are released from, when not running in GitHub Actions.
      */
-    public const BASE_DOWNLOAD_URL = 'github.com/othyn/go-calendar/releases/latest/download/';
+    public const DEFAULT_REPOSITORY = 'othyn/go-calendar';
 
     public function __construct(
         public string $key,
         public string $name,
         public string $title,
+        public ?string $short,
         public string $filename,
         public string $filepath,
         public string $url,
     ) {
+    }
+
+    /**
+     * The base download URL to the hosted ICS assets, following whichever repository (or fork) built them.
+     */
+    public static function baseDownloadUrl(): string
+    {
+        $repository = getenv(name: 'GITHUB_REPOSITORY');
+
+        return 'github.com/' . (empty($repository) ? self::DEFAULT_REPOSITORY : $repository) . '/releases/latest/download/';
     }
 
     /**
@@ -61,13 +73,18 @@ class LeekDuckEventType
             ? 'gocal.ics'
             : "gocal__{$key}.ics";
 
+        $translated = $key === CalendarService::EVERYTHING_CALENDAR_KEY
+            ? ['title' => TranslationService::string(key: 'calendar.everything', english: $heading), 'short' => null]
+            : TranslationService::eventType(key: $key, heading: $heading);
+
         return new self(
             key: $key,
             name: $name,
-            title: $heading,
+            title: $translated['title'],
+            short: $translated['short'],
             filename: $filename,
             filepath: self::BASE_LOCAL_PATH . $filename,
-            url: self::BASE_DOWNLOAD_URL . $filename
+            url: self::baseDownloadUrl() . $filename
         );
     }
 }
