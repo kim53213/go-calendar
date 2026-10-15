@@ -1,29 +1,47 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - City Safari (CS)
-X-WR-CALNAME:GO Calendar - City Safari (CS)
-DESCRIPTION:All Pokémon GO City Safari events\, in your local time\, auto-
- updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO City Safari events\, in your local time\, auto
- -updated and sourced from Leek Duck.
+NAME:GO 日曆 - 城市狩獵
+X-WR-CALNAME:GO 日曆 - 城市狩獵
+DESCRIPTION:所有 Pokémon GO「城市狩獵」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「城市狩獵」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+BEGIN:STANDARD
+DTSTART:20260127T100000Z
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20260118T035730Z
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-go-city-safari-rio-de-janeiro-2026
-DTSTAMP:20260928T044048Z
-SUMMARY:[CS] Rio de Janeiro\, Brazil - Pokémon GO City Safari
-DESCRIPTION:Starts at 13:00\, ends at 21:00.\n\nhttps://leekduck.com/events
- /pokemon-go-city-safari-rio-de-janeiro-2026/
-URL:https://leekduck.com/events/pokemon-go-city-safari-rio-de-janeiro-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/city-safari-rio-
- de-janeiro-2026.jpg
-DTSTART:20260926T130000
-DTEND:20260927T210000
+UID:pokemon-go-city-safari-boston-2026-rescheduled
+DTSTAMP:20261015T035730Z
+SUMMARY:[城市狩獵] Pokémon GO 城市狩獵：Boston（Rescheduled）
+DESCRIPTION:開始時間 10:00，結束時間 18:00。\n\n英文原名：Po
+ kémon GO City Safari: Boston (Rescheduled)\n\nhttps://leekduck.com/events
+ /pokemon-go-city-safari-boston-2026-rescheduled/
+URL:https://leekduck.com/events/pokemon-go-city-safari-boston-2026-reschedu
+ led/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/city-safari-bost
+ on-2026.jpg
+DTSTART;TZID=Asia/Taipei:20261024T100000
+DTEND;TZID=Asia/Taipei:20261025T180000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[CS] Rio de Janeiro\, Brazil - Pokémon GO City Safari
+DESCRIPTION:[城市狩獵] Pokémon GO 城市狩獵：Boston（Rescheduled
+ ）
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

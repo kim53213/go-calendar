@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260117T060544Z
+DTSTART:20260118T035730Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sandile-hatch-day-2026
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] 孵化日：黑眼鱷
 DESCRIPTION:開始時間 11:00，結束時間 17:00。\n\n英文原名：Sa
  ndile Hatch Day\n\nhttps://leekduck.com/events/sandile-hatch-day-2026/
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fall-marathon-buddy-trek-2026
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] 秋季馬拉松：夥伴旅程
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Fa
  ll Marathon: Buddy Trek\n\nhttps://leekduck.com/events/fall-marathon-buddy
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-tcg-30th-celebration
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] Pokémon TCG：30th 慶典
 DESCRIPTION:開始時間 10:00，結束時間 22:00。\n\n英文原名：Po
  kémon TCG: 30th Celebration\n\nhttps://leekduck.com/events/pokemon-tcg-30
@@ -82,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-orionids-2026
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] 小隕星流星雨：獵戶座 2026
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Orionids 2026\n\nhttps://leekduck.com/events/minior-showers-
@@ -100,7 +100,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-1
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] Pokémon GO 萬聖節 2026 第一部分
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：Po
  kémon GO Halloween 2026 Part I\n\nhttps://leekduck.com/events/halloween-2
@@ -118,7 +118,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-2026-part-2
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] Pokémon GO 萬聖節 2026 第二部分
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Po
  kémon GO Halloween 2026 Part II\n\nhttps://leekduck.com/events/halloween-
@@ -135,8 +135,25 @@ TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:into-the-wild-2026
+DTSTAMP:20261015T035730Z
+SUMMARY:[活動] Into the Wild
+DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：In
+ to the Wild\n\nhttps://leekduck.com/events/into-the-wild-2026/
+URL:https://leekduck.com/events/into-the-wild-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-11-09-into-the-wild-2026/into-the-wild-2026.jpg
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[活動] Into the Wild
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:minior-showers-leonids-2026
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] 小隕星流星雨：獅子座 2026
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Leonids 2026\n\nhttps://leekduck.com/events/minior-showers-l
@@ -154,7 +171,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] 小隕星流星雨：雙子座 2026
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Geminids 2026\n\nhttps://leekduck.com/events/minior-showers-
@@ -172,7 +189,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] 小隕星流星雨：寶瓶座η 2027
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Eta Aquariids 2027\n\nhttps://leekduck.com/events/minior-sho
@@ -190,7 +207,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] 小隕星流星雨：南寶瓶座δ 2027
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Southern Delta Aquariids 2027\n\nhttps://leekduck.com/events
@@ -209,7 +226,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[活動] 小隕星流星雨：英仙座 2027
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Perseids 2027\n\nhttps://leekduck.com/events/minior-showers-

@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260117T060544Z
+DTSTART:20260118T035730Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-sendai-japan
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[野外區域] Pokémon GO 野外區域 2026：仙台 • 東北
 DESCRIPTION:開始時間 09:00，結束時間 17:00。\n\n英文原名：Po
  kémon GO Wild Area 2026: Sendai • Tohoku\n\nhttps://leekduck.com/events
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-mexico-city
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[野外區域] Pokémon GO 野外區域 2026：墨西哥城
 DESCRIPTION:開始時間 00:00，結束時間 08:00。\n\n英文原名：Po
  kémon GO Wild Area 2026: Mexico City\n\nhttps://leekduck.com/events/pokem
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-wild-area-2026-global
-DTSTAMP:20261014T060544Z
+DTSTAMP:20261015T035730Z
 SUMMARY:[野外區域] Pokémon GO 野外區域 2026：全球
 DESCRIPTION:開始時間 10:00，結束時間 18:00。\n\n英文原名：Po
  kémon GO Wild Area 2026: Global\n\nhttps://leekduck.com/events/pokemon-go

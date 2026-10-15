@@ -1,4 +1,8 @@
 {
+    "city_safari": {
+        "name": "城市狩獵",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__city_safari.ics"
+    },
     "community_day": {
         "name": "社群日",
         "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"
