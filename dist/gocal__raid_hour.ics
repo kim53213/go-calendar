@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260122T035928Z
+DTSTART:20260123T041221Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20261021
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[團體戰時間] 團體戰時間：帕路奇亞
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Pa
  lkia Raid Hour\n\nhttps://leekduck.com/events/raidhour20261021/
@@ -43,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261028
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[團體戰時間] 團體戰時間：騎拉帝納（起源形態）
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Gi
  ratina (Origin Forme) Raid Hour\n\nhttps://leekduck.com/events/raidhour202
@@ -56,6 +56,61 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[團體戰時間] 團體戰時間：騎拉帝納（起源形態
  ）
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261104
+DTSTAMP:20261020T041221Z
+SUMMARY:[團體戰時間] 團體戰時間：騎拉帝納（別種形態）
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Gi
+ ratina (Altered Forme) Raid Hour\n\nhttps://leekduck.com/events/raidhour20
+ 261104/
+URL:https://leekduck.com/events/raidhour20261104/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Asia/Taipei:20261104T180000
+DTEND;TZID=Asia/Taipei:20261104T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰時間] 團體戰時間：騎拉帝納（別種形態
+ ）
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261118
+DTSTAMP:20261020T041221Z
+SUMMARY:[團體戰時間] 團體戰時間：克雷色利亞和達克萊伊
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Cr
+ esselia and Darkrai Raid Hour\n\nhttps://leekduck.com/events/raidhour20261
+ 118/
+URL:https://leekduck.com/events/raidhour20261118/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Asia/Taipei:20261118T180000
+DTEND;TZID=Asia/Taipei:20261118T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰時間] 團體戰時間：克雷色利亞和達克萊
+ 伊
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261125
+DTSTAMP:20261020T041221Z
+SUMMARY:[團體戰時間] 團體戰時間：代歐奇希斯（Normal、Defe
+ nse、Attack、Speed Formes）
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：De
+ oxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour\n\nhttps://l
+ eekduck.com/events/raidhour20261125/
+URL:https://leekduck.com/events/raidhour20261125/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Asia/Taipei:20261125T180000
+DTEND;TZID=Asia/Taipei:20261125T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰時間] 團體戰時間：代歐奇希斯（Normal、
+ Defense、Attack、Speed Formes）
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

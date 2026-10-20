@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_little-cup
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[對戰聯盟] 超級聯盟、高級聯盟：超級進化版、小
  小盃｜暮光小徑
 DESCRIPTION:開始時間 04:00，結束時間 04:00。\n\n英文原名：Gr
@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_fantasy-cup
  -great-league-edition
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[對戰聯盟] 高級聯盟、大師聯盟：超級進化版、幻
  想盃：超級聯盟版｜暮光小徑
 DESCRIPTION:開始時間 04:00，結束時間 04:00。\n\n英文原名：Ul
@@ -58,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-halloween-cup-great-league-editi
  on
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[對戰聯盟] 大師聯盟和超級萬聖節盃：超級聯盟版
  ｜暮光小徑
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league-mega-edition_ultra-league-mega-edition
  _master-league-mega-edition-split-3
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版｜暮光小徑
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -105,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_great-league_ultra-league-mega-edition_2026-go-laic
  -cup
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[對戰聯盟] 超級聯盟、高級聯盟：超級進化版、2026
   GO LAIC 盃｜暮光小徑
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
  c-cup
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[對戰聯盟] 高級聯盟、大師聯盟：超級進化版、2026
   GO LAIC 盃｜暮光小徑
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
@@ -150,7 +150,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition
-DTSTAMP:20261019T035928Z
+DTSTAMP:20261020T041221Z
 SUMMARY:[對戰聯盟] 大師聯盟和超級捕捉盃：超級聯盟版｜
  暮光小徑
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
