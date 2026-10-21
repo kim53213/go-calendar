@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260123T041221Z
+DTSTART:20260124T040008Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:chandelure-super-mega-raid-day-2026
-DTSTAMP:20261020T041221Z
+DTSTAMP:20261021T040008Z
 SUMMARY:[團體戰日] 超級進化團體戰日：水晶燈火靈
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ch
  andelure Super Mega Raid Day\n\nhttps://leekduck.com/events/chandelure-sup
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026
-DTSTAMP:20261020T041221Z
+DTSTAMP:20261021T040008Z
 SUMMARY:[團體戰日] 超級進化團體戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Su
  per Mega Raid Day\n\nhttps://leekduck.com/events/super-mega-raid-day-novem

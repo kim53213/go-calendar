@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:pokemon-x-adidas-2026
-DTSTAMP:20261020T041221Z
+DTSTAMP:20261021T040008Z
 SUMMARY:[調查] adidas × Pokémon 限時調查
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：ad
  idas × Pokémon Timed Research\n\nhttps://leekduck.com/events/pokemon-x-a
