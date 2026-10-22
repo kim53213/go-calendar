@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260124T040008Z
+DTSTART:20260125T040123Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-22
-DTSTAMP:20261021T040008Z
+DTSTAMP:20261022T040123Z
 SUMMARY:[聚焦時刻] 聚焦時刻：睡睡菇
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Mo
  relull Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour2
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-10-29
-DTSTAMP:20261021T040008Z
+DTSTAMP:20261022T040123Z
 SUMMARY:[聚焦時刻] 聚焦時刻：鬼斯
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Ga
  stly Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-05
-DTSTAMP:20261021T040008Z
+DTSTAMP:20261022T040123Z
 SUMMARY:[聚焦時刻] 聚焦時刻：熊寶寶 wearing a witch hat
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Te
  ddiursa wearing a witch hat Spotlight Hour\n\nhttps://leekduck.com/events/
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26
-DTSTAMP:20261021T040008Z
+DTSTAMP:20261022T040123Z
 SUMMARY:[聚焦時刻] 聚焦時刻：嗡蝠
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：No
  ibat Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202

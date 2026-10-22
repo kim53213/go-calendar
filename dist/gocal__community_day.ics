@@ -20,25 +20,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260124T040008Z
+DTSTART:20260125T040123Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:november-communityday2026
-DTSTAMP:20261021T040008Z
-SUMMARY:[社群日] 11月社群日
-DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：No
- vember Community Day\n\nhttps://leekduck.com/events/november-communityday2
+DTSTAMP:20261022T040123Z
+SUMMARY:[社群日] 駒刀小兵社群日
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Pa
+ wniard Community Day\n\nhttps://leekduck.com/events/november-communityday2
  026/
 URL:https://leekduck.com/events/november-communityday2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-11-21-november-communityday2026/pawniard-november-cd-2026.jpg
 DTSTART;TZID=Asia/Taipei:20261121T140000
 DTEND;TZID=Asia/Taipei:20261121T170000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[社群日] 11月社群日
+DESCRIPTION:[社群日] 駒刀小兵社群日
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
