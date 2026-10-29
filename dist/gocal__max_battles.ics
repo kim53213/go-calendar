@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Asia/Taipei
 BEGIN:STANDARD
-DTSTART:20260127T140000Z
+DTSTART:20260224T110000Z
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:STANDARD
@@ -20,30 +20,26 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260128T035816Z
+DTSTART:20260201T050436Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:dynamax-uxie-mesprit-azelf-max-battle-day-2026
-DTSTAMP:20261025T035816Z
-SUMMARY:[極巨對戰] 極巨對戰日：極巨由克希、艾姆利多、
- 亞克諾姆
-DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Dy
- namax Uxie\, Mesprit\, and Azelf Max Battle Day\n\nhttps://leekduck.com/ev
- ents/dynamax-uxie-mesprit-azelf-max-battle-day-2026/
-URL:https://leekduck.com/events/dynamax-uxie-mesprit-azelf-max-battle-day-2
- 026/
+UID:eternamax-eternatus-max-battles-2026
+DTSTAMP:20261029T050436Z
+SUMMARY:[極巨對戰] Eternamax 無極汰那 Returns
+DESCRIPTION:開始時間 11:00，結束時間 14:00。\n\n英文原名：Et
+ ernamax Eternatus Returns\n\nhttps://leekduck.com/events/eternamax-eternat
+ us-max-battles-2026/
+URL:https://leekduck.com/events/eternamax-eternatus-max-battles-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-10-24-dynamax-uxie-mesprit-azelf-max-battle-day-2026/dynamax-uxie
- -mesprit-azelf-max-battle-day.jpg
-DTSTART;TZID=Asia/Taipei:20261024T140000
-DTEND;TZID=Asia/Taipei:20261024T170000
+ 026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg
+DTSTART;TZID=Asia/Taipei:20261121T110000
+DTEND;TZID=Asia/Taipei:20261121T140000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[極巨對戰] 極巨對戰日：極巨由克希、艾姆利多
- 、亞克諾姆
+DESCRIPTION:[極巨對戰] Eternamax 無極汰那 Returns
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

@@ -19,6 +19,10 @@
         "name": "GO通行證",
         "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__go_pass.ics"
     },
+    "max_battles": {
+        "name": "極巨對戰",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__max_battles.ics"
+    },
     "max_mondays": {
         "name": "極巨星期一",
         "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__max_mondays.ics"
