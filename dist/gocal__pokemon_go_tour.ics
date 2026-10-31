@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260202T050341Z
+DTSTART:20260203T045104Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027
-DTSTAMP:20261030T050341Z
+DTSTAMP:20261031T045104Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 高雄 2027
 DESCRIPTION:開始時間 00:00，結束時間 23:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Kaohsiung 2027\n\nhttps://leekduck.com/events/poke
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027
-DTSTAMP:20261030T050341Z
+DTSTAMP:20261031T045104Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 洛杉磯 2027
 DESCRIPTION:開始時間 16:00，結束時間 15:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Los Angeles 2027\n\nhttps://leekduck.com/events/po
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027
-DTSTAMP:20261030T050341Z
+DTSTAMP:20261031T045104Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 全球 2027
 DESCRIPTION:開始時間 00:00，結束時間 23:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Global 2027\n\nhttps://leekduck.com/events/pokemon
