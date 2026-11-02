@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Asia/Taipei
 BEGIN:STANDARD
-DTSTART:20260203T140000Z
+DTSTART:20260303T140000Z
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:STANDARD
@@ -20,32 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260204T051609Z
+DTSTART:20260205T051623Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:chandelure-super-mega-raid-day-2026
-DTSTAMP:20261101T051609Z
-SUMMARY:[團體戰日] 超級進化團體戰日：水晶燈火靈
-DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ch
- andelure Super Mega Raid Day\n\nhttps://leekduck.com/events/chandelure-sup
- er-mega-raid-day-2026/
-URL:https://leekduck.com/events/chandelure-super-mega-raid-day-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/chandelure-super
- -mega-raid-day-2026.jpg
-DTSTART;TZID=Asia/Taipei:20261031T140000
-DTEND;TZID=Asia/Taipei:20261031T170000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[團體戰日] 超級進化團體戰日：水晶燈火靈
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:super-mega-raid-day-november-2026
-DTSTAMP:20261101T051609Z
+DTSTAMP:20261102T051623Z
 SUMMARY:[團體戰日] 超級進化團體戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Su
  per Mega Raid Day\n\nhttps://leekduck.com/events/super-mega-raid-day-novem
