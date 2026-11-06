@@ -55,6 +55,10 @@
         "name": "季節",
         "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__season.ics"
     },
+    "timed_research": {
+        "name": "限時調查",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__timed_research.ics"
+    },
     "wild_area": {
         "name": "野外區域",
         "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__wild_area.ics"

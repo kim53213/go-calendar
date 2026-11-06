@@ -1,29 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:spatie/icalendar-generator
-NAME:GO Calendar - Timed Research (TR)
-X-WR-CALNAME:GO Calendar - Timed Research (TR)
-DESCRIPTION:All Pokémon GO Timed Research events\, in your local time\, au
- to-updated and sourced from Leek Duck.
-X-WR-CALDESC:All Pokémon GO Timed Research events\, in your local time\, a
- uto-updated and sourced from Leek Duck.
+NAME:GO 日曆 - 限時調查
+X-WR-CALNAME:GO 日曆 - 限時調查
+DESCRIPTION:所有 Pokémon GO「限時調查」活動，以你的當地時
+ 間顯示，每日自動更新，資料來源為 Leek Duck。
+X-WR-CALDESC:所有 Pokémon GO「限時調查」活動，以你的當地
+ 時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:choose-your-path-timed-research-2026-05-19
-DTSTAMP:20260525T010611Z
-SUMMARY:[TR] Choose Your Path Timed Research (May 19\, 2026)
-DESCRIPTION:Starts at 10:00\, ends at 20:00.\n\nhttps://leekduck.com/events
- /choose-your-path-timed-research-2026-05-19/
-URL:https://leekduck.com/events/choose-your-path-timed-research-2026-05-19/
+UID:go-wild-area-gigantamax-machamp-power-up-timed-research
+DTSTAMP:20261106T055105Z
+SUMMARY:[限時調查] GO 野外區域：超極巨怪力 Power Up! 限時
+ 調查
+DESCRIPTION:開始時間 10:00，結束時間 23:59。\n\n英文原名：GO
+  Wild Area: Gigantamax Machamp Power Up! Timed Research\n\nhttps://leekduc
+ k.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/
+URL:https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-ti
+ med-research/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-05-19-choose-your-path-timed-research-2026-05-19/choose-your-path
- -evergreen-2026-05-19.jpg
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260524
+ 025/2025-05-25-gigantamax-machamp-max-battle-day-may-2025/gigantamax-macha
+ mp-max-battles.jpg
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261116
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[TR] Choose Your Path Timed Research (May 19\, 2026)
+DESCRIPTION:[限時調查] GO 野外區域：超極巨怪力 Power Up! 限
+ 時調查
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

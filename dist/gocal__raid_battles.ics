@@ -10,46 +10,8 @@ X-WR-CALDESC:所有 Pokémon GO「團體戰」活動，以你的當地時
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:shadow-landorus-incarnate-forme-in-shadow-raids-october-2026
-DTSTAMP:20261105T055439Z
-SUMMARY:[團體戰] 暗影團體戰：暗影土地雲（化身形態）
-DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Sh
- adow Landorus (Incarnate Forme) in Shadow Raids\n\nhttps://leekduck.com/ev
- ents/shadow-landorus-incarnate-forme-in-shadow-raids-october-2026/
-URL:https://leekduck.com/events/shadow-landorus-incarnate-forme-in-shadow-r
- aids-october-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
- mg.jpg
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261104
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[團體戰] 暗影團體戰：暗影土地雲（化身形態）
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:giratina-origin-forme-in-5-star-raid-battles-october-2026
-DTSTAMP:20261105T055439Z
-SUMMARY:[團體戰] 五星團體戰：騎拉帝納（起源形態）
-DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Gi
- ratina (Origin Forme) in 5-star Raid Battles\n\nhttps://leekduck.com/event
- s/giratina-origin-forme-in-5-star-raid-battles-october-2026/
-URL:https://leekduck.com/events/giratina-origin-forme-in-5-star-raid-battle
- s-october-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/giratinaoriginfo
- rme.jpg
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261104
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[團體戰] 五星團體戰：騎拉帝納（起源形態）
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:mega-sableye-in-mega-raids-october-2026
-DTSTAMP:20261105T055439Z
+DTSTAMP:20261106T055105Z
 SUMMARY:[團體戰] 超級團體戰：超級勾魂眼
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Sableye in Mega Raids\n\nhttps://leekduck.com/events/mega-sableye-in-me
@@ -66,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:giratina-altered-forme-in-5-star-raid-battles-november-2026
-DTSTAMP:20261105T055439Z
+DTSTAMP:20261106T055105Z
 SUMMARY:[團體戰] 五星團體戰：騎拉帝納（別種形態）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Gi
  ratina (Altered Forme) in 5-star Raid Battles\n\nhttps://leekduck.com/even
@@ -85,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026
-DTSTAMP:20261105T055439Z
+DTSTAMP:20261106T055105Z
 SUMMARY:[團體戰] 暗影團體戰：暗影龍捲雲（化身形態）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Sh
  adow Tornadus (Incarnate Forme) in Shadow Raids\n\nhttps://leekduck.com/ev
@@ -103,7 +65,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cresselia-darkrai-in-5-star-raid-battles-november-2026
-DTSTAMP:20261105T055439Z
+DTSTAMP:20261106T055105Z
 SUMMARY:[團體戰] 五星團體戰：克雷色利亞和達克萊伊
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Cr
  esselia and Darkrai in 5-star Raid Battles\n\nhttps://leekduck.com/events/
@@ -122,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-november-2026
-DTSTAMP:20261105T055439Z
+DTSTAMP:20261106T055105Z
 SUMMARY:[團體戰] 超級團體戰：超級詛咒娃娃
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Banette in Mega Raids\n\nhttps://leekduck.com/events/mega-banette-in-me
@@ -139,7 +101,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026
-DTSTAMP:20261105T055439Z
+DTSTAMP:20261106T055105Z
 SUMMARY:[團體戰] 暗影團體戰：暗影龍捲雲（化身形態）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Sh
  adow Tornadus (Incarnate Forme) in Shadow Raids\n\nhttps://leekduck.com/ev
@@ -158,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026
-DTSTAMP:20261105T055439Z
+DTSTAMP:20261106T055105Z
 SUMMARY:[團體戰] 五星團體戰：代歐奇希斯（Normal、Defense、
  Attack、Speed Formes）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：De
@@ -180,7 +142,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026
-DTSTAMP:20261105T055439Z
+DTSTAMP:20261106T055105Z
 SUMMARY:[團體戰] 超級團體戰：超級巨金怪
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Metagross in Mega Raids\n\nhttps://leekduck.com/events/mega-metagross-i
