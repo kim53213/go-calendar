@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260212T053132Z
+DTSTART:20260213T064244Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:clefable-super-mega-raid-day-2026
-DTSTAMP:20261109T053132Z
+DTSTAMP:20261110T064244Z
 SUMMARY:[團體戰日] 超級進化團體戰日：皮可西
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Cl
  efable Super Mega Raid Day\n\nhttps://leekduck.com/events/clefable-super-m
@@ -40,6 +40,76 @@ DTEND;TZID=Asia/Taipei:20261128T170000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[團體戰日] 超級進化團體戰日：皮可西
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-december-2026
+DTSTAMP:20261110T064244Z
+SUMMARY:[團體戰日] 團體戰日
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ra
+ id Day\n\nhttps://leekduck.com/events/raid-day-december-2026/
+URL:https://leekduck.com/events/raid-day-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Asia/Taipei:20261219T140000
+DTEND;TZID=Asia/Taipei:20261219T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰日] 團體戰日
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-january-2027
+DTSTAMP:20261110T064244Z
+SUMMARY:[團體戰日] 超級進化團體戰日
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Su
+ per Mega Raid Day\n\nhttps://leekduck.com/events/super-mega-raid-day-janua
+ ry-2027/
+URL:https://leekduck.com/events/super-mega-raid-day-january-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Asia/Taipei:20270109T140000
+DTEND;TZID=Asia/Taipei:20270109T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰日] 超級進化團體戰日
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:super-mega-raid-day-january-30-2027
+DTSTAMP:20261110T064244Z
+SUMMARY:[團體戰日] 超級進化團體戰日
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Su
+ per Mega Raid Day\n\nhttps://leekduck.com/events/super-mega-raid-day-janua
+ ry-30-2027/
+URL:https://leekduck.com/events/super-mega-raid-day-january-30-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Asia/Taipei:20270130T140000
+DTEND;TZID=Asia/Taipei:20270130T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰日] 超級進化團體戰日
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raid-day-february-2027
+DTSTAMP:20261110T064244Z
+SUMMARY:[團體戰日] 團體戰日
+DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ra
+ id Day\n\nhttps://leekduck.com/events/raid-day-february-2027/
+URL:https://leekduck.com/events/raid-day-february-2027/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;TZID=Asia/Taipei:20270213T140000
+DTEND;TZID=Asia/Taipei:20270213T170000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰日] 團體戰日
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
