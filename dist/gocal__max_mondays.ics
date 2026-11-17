@@ -20,18 +20,17 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260219T054054Z
+DTSTART:20260220T071807Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:max-mondays-2026-11-16
-DTSTAMP:20261116T054054Z
-SUMMARY:[極巨一] 極巨星期一：Pokémon to be announced
-DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Ma
- x Monday: Pokémon to be announced\n\nhttps://leekduck.com/events/max-mond
- ays-2026-11-16/
+DTSTAMP:20261117T071807Z
+SUMMARY:[極巨一] [Canceled] 極巨星期一
+DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：[C
+ anceled] Max Monday\n\nhttps://leekduck.com/events/max-mondays-2026-11-16/
 URL:https://leekduck.com/events/max-mondays-2026-11-16/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/max-battles-kant
  o.jpg
@@ -39,13 +38,13 @@ DTSTART;TZID=Asia/Taipei:20261116T060000
 DTEND;TZID=Asia/Taipei:20261116T210000
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[極巨一] 極巨星期一：Pokémon to be announced
+DESCRIPTION:[極巨一] [Canceled] 極巨星期一
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-23
-DTSTAMP:20261116T054054Z
+DTSTAMP:20261117T071807Z
 SUMMARY:[極巨一] 極巨星期一：極巨妙喵
 DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
  namax Espurr during Max Monday\n\nhttps://leekduck.com/events/max-mondays-
@@ -63,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-30
-DTSTAMP:20261116T054054Z
+DTSTAMP:20261117T071807Z
 SUMMARY:[極巨一] 極巨星期一：極巨幾何雪花
 DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
  namax Cryogonal during Max Monday\n\nhttps://leekduck.com/events/max-monda

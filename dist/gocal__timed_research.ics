@@ -10,24 +10,21 @@ X-WR-CALDESC:所有 Pokémon GO「限時調查」活動，以你的當地
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:go-wild-area-gigantamax-machamp-power-up-timed-research
-DTSTAMP:20261116T054054Z
-SUMMARY:[限時調查] GO 野外區域：超極巨怪力 Power Up! 限時
- 調查
-DESCRIPTION:開始時間 10:00，結束時間 23:59。\n\n英文原名：GO
-  Wild Area: Gigantamax Machamp Power Up! Timed Research\n\nhttps://leekduc
- k.com/events/go-wild-area-gigantamax-machamp-power-up-timed-research/
-URL:https://leekduck.com/events/go-wild-area-gigantamax-machamp-power-up-ti
- med-research/
+UID:duolingo-timed-research-2026
+DTSTAMP:20261117T071807Z
+SUMMARY:[限時調查] Pokémon GO和Duolingo 限時調查
+DESCRIPTION:開始時間 10:00，結束時間 23:59。\n\n英文原名：Po
+ kémon GO and Duolingo Timed Research\n\nhttps://leekduck.com/events/duoli
+ ngo-timed-research-2026/
+URL:https://leekduck.com/events/duolingo-timed-research-2026/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 025/2025-05-25-gigantamax-machamp-max-battle-day-may-2025/gigantamax-macha
- mp-max-battles.jpg
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261116
+ 026/2026-11-17-duolingo-timed-research-2026/duolingo-timed-research-2026.j
+ pg
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20270101
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[限時調查] GO 野外區域：超極巨怪力 Power Up! 限
- 時調查
+DESCRIPTION:[限時調查] Pokémon GO和Duolingo 限時調查
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
