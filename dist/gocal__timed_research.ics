@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:duolingo-timed-research-2026
-DTSTAMP:20261118T064244Z
+DTSTAMP:20261119T064346Z
 SUMMARY:[限時調查] Pokémon GO和Duolingo 限時調查
 DESCRIPTION:開始時間 10:00，結束時間 23:59。\n\n英文原名：Po
  kémon GO and Duolingo Timed Research\n\nhttps://leekduck.com/events/duoli
