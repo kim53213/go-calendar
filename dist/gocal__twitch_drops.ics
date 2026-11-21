@@ -9,37 +9,27 @@ X-WR-CALDESC:所有 Pokémon GO「Twitch Drops」活動，以你的當地
  時間顯示，每日自動更新，資料來源為 Leek Duck。
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
-BEGIN:VTIMEZONE
-TZID:Asia/Taipei
-BEGIN:STANDARD
-DTSTART:20260128T103000Z
-TZOFFSETFROM:+0800
-TZOFFSETTO:+0800
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC
-BEGIN:STANDARD
-DTSTART:20260128T035816Z
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
-UID:pokemon-night-out-2026-twitch-drops
-DTSTAMP:20261025T035816Z
-SUMMARY:[Twitch] Twitch Drops：Pokémon Night Out 2026
-DESCRIPTION:開始時間 10:30，結束時間 14:59。\n\n英文原名：Tw
- itch Drops for Pokémon Night Out 2026\n\nhttps://leekduck.com/events/poke
- mon-night-out-2026-twitch-drops/
-URL:https://leekduck.com/events/pokemon-night-out-2026-twitch-drops/
+UID:pokemon-latin-america-international-championships-2027-timed-research-t
+ witch-drops
+DTSTAMP:20261121T062348Z
+SUMMARY:[Twitch] Twitch Drops：2027 Pokémon Latin America International C
+ hampionships
+DESCRIPTION:開始時間 20:00，結束時間 07:00。\n\n英文原名：Tw
+ itch Drops for 2027 Pokémon Latin America International Championships\n\n
+ https://leekduck.com/events/pokemon-latin-america-international-championsh
+ ips-2027-timed-research-twitch-drops/
+URL:https://leekduck.com/events/pokemon-latin-america-international-champio
+ nships-2027-timed-research-twitch-drops/
 IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg
-DTSTART;TZID=Asia/Taipei:20261025T103000
-DTEND;TZID=Asia/Taipei:20261025T145900
+ 026/2026-11-20-pokemon-latin-america-international-championships-2027-time
+ d-research-twitch-drops/2027-laic-go-drops.jpg
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261124
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[Twitch] Twitch Drops：Pokémon Night Out 2026
+DESCRIPTION:[Twitch] Twitch Drops：2027 Pokémon Latin America Internation
+ al Championships
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
