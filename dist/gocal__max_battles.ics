@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Asia/Taipei
 BEGIN:STANDARD
-DTSTART:20260224T110000Z
+DTSTART:20260310T140000Z
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:STANDARD
@@ -20,32 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260225T055427Z
+DTSTART:20260226T064357Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:eternamax-eternatus-max-battles-2026
-DTSTAMP:20261122T055427Z
-SUMMARY:[極巨對戰] Eternamax 無極汰那 Returns
-DESCRIPTION:開始時間 11:00，結束時間 14:00。\n\n英文原名：Et
- ernamax Eternatus Returns\n\nhttps://leekduck.com/events/eternamax-eternat
- us-max-battles-2026/
-URL:https://leekduck.com/events/eternamax-eternatus-max-battles-2026/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
- 026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg
-DTSTART;TZID=Asia/Taipei:20261121T110000
-DTEND;TZID=Asia/Taipei:20261121T140000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[極巨對戰] Eternamax 無極汰那 Returns
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:max-battle-day-december-2026
-DTSTAMP:20261122T055427Z
+DTSTAMP:20261123T064357Z
 SUMMARY:[極巨對戰] 極巨對戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ma
  x Battle Day\n\nhttps://leekduck.com/events/max-battle-day-december-2026/
@@ -62,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-january-2027
-DTSTAMP:20261122T055427Z
+DTSTAMP:20261123T064357Z
 SUMMARY:[極巨對戰] 極巨對戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ma
  x Battle Day\n\nhttps://leekduck.com/events/max-battle-day-january-2027/
