@@ -10,47 +10,309 @@ X-WR-CALDESC:所有 Pokémon GO「GO對戰聯盟」活動，以你的當地
 REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
-UID:gbl-twilight-trails_ultra-league_master-league-mega-edition_2026-go-lai
- c-cup
-DTSTAMP:20261124T091110Z
-SUMMARY:[對戰聯盟] 高級聯盟、大師聯盟：超級進化版、2026
-  GO LAIC 盃｜暮光小徑
-DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
- tra League\, Master League: Mega Edition\, and 2026 GO LAIC Cup | Twilight
-  Trails\n\nhttps://leekduck.com/events/gbl-twilight-trails_ultra-league_ma
- ster-league-mega-edition_2026-go-laic-cup/
-URL:https://leekduck.com/events/gbl-twilight-trails_ultra-league_master-lea
- gue-mega-edition_2026-go-laic-cup/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
- -ultra-league-machamp-swampert.jpg
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261127
+UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
+ dition_master-league-mega-edition-split-1
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
+ 級進化版、大師聯盟：超級進化版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
+ eat League: Mega Edition\, Ultra League: Mega Edition\, and Master League:
+  Mega Edition | Daydream Destinations\n\nhttps://leekduck.com/events/gbl-d
+ aydream-destinations_great-league-mega-edition_ultra-league-mega-edition_m
+ aster-league-mega-edition-split-1/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_ultra-league-mega-edition_master-league-mega-edition-split-1/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261210
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[對戰聯盟] 高級聯盟、大師聯盟：超級進化版、
- 2026 GO LAIC 盃｜暮光小徑
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：
+ 超級進化版、大師聯盟：超級進化版｜Daydream Destinations
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gbl-twilight-trails_master-league_mega-catch-cup-great-league-edition
-DTSTAMP:20261124T091110Z
-SUMMARY:[對戰聯盟] 大師聯盟和超級捕捉盃：超級聯盟版｜
- 暮光小徑
-DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
- ster League and Mega Catch Cup: Great League Edition | Twilight Trails\n\n
- https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catch-c
- up-great-league-edition/
-URL:https://leekduck.com/events/gbl-twilight-trails_master-league_mega-catc
- h-cup-great-league-edition/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
- aster-key.jpg
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261203
+UID:gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-
+ league-edition
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和Mountain 盃：超
+ 級聯盟版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
+ eat League: Mega Edition and Mountain Cup: Great League Edition | Daydream
+  Destinations\n\nhttps://leekduck.com/events/gbl-daydream-destinations_gre
+ at-league-mega-edition_mountain-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_mountain-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261217
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:[對戰聯盟] 大師聯盟和超級捕捉盃：超級聯盟版
- ｜暮光小徑
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版和Mountain 盃：
+ 超級聯盟版｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-l
+ eague-edition
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 高級聯盟：超級進化版和假日盃：超級
+ 聯盟版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
+ tra League: Mega Edition and Holiday Cup: Great League Edition | Daydream 
+ Destinations\n\nhttps://leekduck.com/events/gbl-daydream-destinations_ultr
+ a-league-mega-edition_holiday-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega
+ -edition_holiday-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261224
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 高級聯盟：超級進化版和假日盃：超
+ 級聯盟版｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-
+ league-edition
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 大師聯盟：超級進化版和假日盃：超級
+ 聯盟版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
+ ster League: Mega Edition and Holiday Cup: Great League Edition | Daydream
+  Destinations\n\nhttps://leekduck.com/events/gbl-daydream-destinations_mas
+ ter-league-mega-edition_holiday-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-meg
+ a-edition_holiday-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261231
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 大師聯盟：超級進化版和假日盃：超
+ 級聯盟版｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
+ dition_master-league-mega-edition-split-2
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
+ 級進化版、大師聯盟：超級進化版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
+ eat League: Mega Edition\, Ultra League: Mega Edition\, and Master League:
+  Mega Edition | Daydream Destinations\n\nhttps://leekduck.com/events/gbl-d
+ aydream-destinations_great-league-mega-edition_ultra-league-mega-edition_m
+ aster-league-mega-edition-split-2/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_ultra-league-mega-edition_master-league-mega-edition-split-2/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270107
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：
+ 超級進化版、大師聯盟：超級進化版｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-
+ league-edition
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和Fighting 盃：超
+ 級聯盟版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
+ eat League: Mega Edition and Fighting Cup: Great League Edition | Daydream
+  Destinations\n\nhttps://leekduck.com/events/gbl-daydream-destinations_gre
+ at-league-mega-edition_fighting-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_fighting-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版和Fighting 盃：
+ 超級聯盟版｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-le
+ ague-edition
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 高級聯盟：超級進化版和Jungle 盃：超級
+ 聯盟版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
+ tra League: Mega Edition and Jungle Cup: Great League Edition | Daydream D
+ estinations\n\nhttps://leekduck.com/events/gbl-daydream-destinations_ultra
+ -league-mega-edition_jungle-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega
+ -edition_jungle-cup-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270121
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 高級聯盟：超級進化版和Jungle 盃：
+ 超級聯盟版｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_master-league-mega-edition_master-league
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 大師聯盟：超級進化版和大師聯盟｜Dayd
+ ream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
+ ster League: Mega Edition and Master League | Daydream Destinations\n\nhtt
+ ps://leekduck.com/events/gbl-daydream-destinations_master-league-mega-edit
+ ion_master-league/
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-meg
+ a-edition_master-league/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270128
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 大師聯盟：超級進化版和大師聯盟｜
+ Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
+ dition_master-league-mega-edition-split-3
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
+ 級進化版、大師聯盟：超級進化版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
+ eat League: Mega Edition\, Ultra League: Mega Edition\, and Master League:
+  Mega Edition | Daydream Destinations\n\nhttps://leekduck.com/events/gbl-d
+ aydream-destinations_great-league-mega-edition_ultra-league-mega-edition_m
+ aster-league-mega-edition-split-3/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_ultra-league-mega-edition_master-league-mega-edition-split-3/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270204
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：
+ 超級進化版、大師聯盟：超級進化版｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_master-league
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和大師聯盟｜Dayd
+ ream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
+ eat League: Mega Edition and Master League | Daydream Destinations\n\nhttp
+ s://leekduck.com/events/gbl-daydream-destinations_great-league-mega-editio
+ n_master-league/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_master-league/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270211
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版和大師聯盟｜
+ Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-leag
+ ue-edition_2027-go-euic-cup
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 高級聯盟：超級進化版、愛心盃：超級
+ 聯盟版、2027 GO EUIC 盃｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
+ tra League: Mega Edition\, Love Cup: Great League Edition\, and 2027 GO EU
+ IC Cup | Daydream Destinations\n\nhttps://leekduck.com/events/gbl-daydream
+ -destinations_ultra-league-mega-edition_love-cup-great-league-edition_2027
+ -go-euic-cup/
+URL:https://leekduck.com/events/gbl-daydream-destinations_ultra-league-mega
+ -edition_love-cup-great-league-edition_2027-go-euic-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/go-battle-league
+ -ultra-league-machamp-swampert.jpg
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270218
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 高級聯盟：超級進化版、愛心盃：超
+ 級聯盟版、2027 GO EUIC 盃｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-gre
+ at-league-edition_2027-go-euic-cup
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 大師聯盟：超級進化版、超級捕捉盃：
+ 超級聯盟版、2027 GO EUIC 盃｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
+ ster League: Mega Edition\, Mega Catch Cup: Great League Edition\, and 202
+ 7 GO EUIC Cup | Daydream Destinations\n\nhttps://leekduck.com/events/gbl-d
+ aydream-destinations_master-league-mega-edition_mega-catch-cup-great-leagu
+ e-edition_2027-go-euic-cup/
+URL:https://leekduck.com/events/gbl-daydream-destinations_master-league-meg
+ a-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattleleague-m
+ aster-key.jpg
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270225
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 大師聯盟：超級進化版、超級捕捉盃
+ ：超級聯盟版、2027 GO EUIC 盃｜Daydream Destinations
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
+ dition_master-league-mega-edition_mega-catch-cup-great-league-edition
+DTSTAMP:20261125T074707Z
+SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
+ 級進化版、大師聯盟：超級進化版、超級捕捉盃：超級
+ 聯盟版｜Daydream Destinations
+DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
+ eat League: Mega Edition\, Ultra League: Mega Edition\, Master League: Meg
+ a Edition\, and Mega Catch Cup: Great League Edition | Daydream Destinatio
+ ns\n\nhttps://leekduck.com/events/gbl-daydream-destinations_great-league-m
+ ega-edition_ultra-league-mega-edition_master-league-mega-edition_mega-catc
+ h-cup-great-league-edition/
+URL:https://leekduck.com/events/gbl-daydream-destinations_great-league-mega
+ -edition_ultra-league-mega-edition_master-league-mega-edition_mega-catch-c
+ up-great-league-edition/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/gobattle-greatle
+ ague-key.jpg
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270304
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：
+ 超級進化版、大師聯盟：超級進化版、超級捕捉盃：超
+ 級聯盟版｜Daydream Destinations
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

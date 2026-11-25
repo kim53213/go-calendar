@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260227T091110Z
+DTSTART:20260228T074707Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:raidhour20261125
-DTSTAMP:20261124T091110Z
+DTSTAMP:20261125T074707Z
 SUMMARY:[團體戰時間] 團體戰時間：代歐奇希斯（Normal、Defe
  nse、Attack、Speed Formes）
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：De
@@ -41,6 +41,89 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[團體戰時間] 團體戰時間：代歐奇希斯（Normal、
  Defense、Attack、Speed Formes）
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261202
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰時間] 團體戰時間：雷吉鐸拉戈
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Re
+ gidrago Raid Hour\n\nhttps://leekduck.com/events/raidhour20261202/
+URL:https://leekduck.com/events/raidhour20261202/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Asia/Taipei:20261202T180000
+DTEND;TZID=Asia/Taipei:20261202T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰時間] 團體戰時間：雷吉鐸拉戈
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261209
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰時間] 團體戰時間：Unannounced
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Un
+ announced Raid Hour\n\nhttps://leekduck.com/events/raidhour20261209/
+URL:https://leekduck.com/events/raidhour20261209/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Asia/Taipei:20261209T180000
+DTEND;TZID=Asia/Taipei:20261209T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰時間] 團體戰時間：Unannounced
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261216
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰時間] 團體戰時間：鳳王
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Ho
+ -Oh Raid Hour\n\nhttps://leekduck.com/events/raidhour20261216/
+URL:https://leekduck.com/events/raidhour20261216/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Asia/Taipei:20261216T180000
+DTEND;TZID=Asia/Taipei:20261216T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰時間] 團體戰時間：鳳王
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261223
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰時間] 團體戰時間：洛奇亞
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Lu
+ gia Raid Hour\n\nhttps://leekduck.com/events/raidhour20261223/
+URL:https://leekduck.com/events/raidhour20261223/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Asia/Taipei:20261223T180000
+DTEND;TZID=Asia/Taipei:20261223T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰時間] 團體戰時間：洛奇亞
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:raidhour20261230
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰時間] 團體戰時間：龍捲雲（靈獸形態）、
+ 雷電雲（靈獸形態）、土地雲（靈獸形態）
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：To
+ rnadus (Therian Forme)\, Thundurus (Therian Forme)\, and Landorus (Therian
+  Forme) Raid Hour\n\nhttps://leekduck.com/events/raidhour20261230/
+URL:https://leekduck.com/events/raidhour20261230/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+DTSTART;TZID=Asia/Taipei:20261230T180000
+DTEND;TZID=Asia/Taipei:20261230T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰時間] 團體戰時間：龍捲雲（靈獸形態）
+ 、雷電雲（靈獸形態）、土地雲（靈獸形態）
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

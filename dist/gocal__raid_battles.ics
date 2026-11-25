@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:cresselia-darkrai-in-5-star-raid-battles-november-2026
-DTSTAMP:20261124T091110Z
+DTSTAMP:20261125T074707Z
 SUMMARY:[團體戰] 五星團體戰：克雷色利亞和達克萊伊
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Cr
  esselia and Darkrai in 5-star Raid Battles\n\nhttps://leekduck.com/events/
@@ -30,7 +30,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-banette-in-mega-raids-november-2026
-DTSTAMP:20261124T091110Z
+DTSTAMP:20261125T074707Z
 SUMMARY:[團體戰] 超級團體戰：超級詛咒娃娃
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Banette in Mega Raids\n\nhttps://leekduck.com/events/mega-banette-in-me
@@ -47,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026
-DTSTAMP:20261124T091110Z
+DTSTAMP:20261125T074707Z
 SUMMARY:[團體戰] 暗影團體戰：暗影龍捲雲（化身形態）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Sh
  adow Tornadus (Incarnate Forme) in Shadow Raids\n\nhttps://leekduck.com/ev
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026
-DTSTAMP:20261124T091110Z
+DTSTAMP:20261125T074707Z
 SUMMARY:[團體戰] 五星團體戰：代歐奇希斯（Normal、Defense、
  Attack、Speed Formes）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：De
@@ -88,7 +88,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026
-DTSTAMP:20261124T091110Z
+DTSTAMP:20261125T074707Z
 SUMMARY:[團體戰] 超級團體戰：超級巨金怪
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Metagross in Mega Raids\n\nhttps://leekduck.com/events/mega-metagross-i
@@ -100,6 +100,203 @@ DTEND;VALUE=DATE:20261202
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[團體戰] 超級團體戰：超級巨金怪
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-slowbro-in-mega-raids-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 超級團體戰：超級呆殼獸
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Slowbro in Mega Raids\n\nhttps://leekduck.com/events/mega-slowbro-in-me
+ ga-raids-december-2026/
+URL:https://leekduck.com/events/mega-slowbro-in-mega-raids-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261209
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 超級團體戰：超級呆殼獸
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:regidrago-in-5-star-raid-battles-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 五星團體戰：雷吉鐸拉戈
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Re
+ gidrago in 5-star Raid Battles\n\nhttps://leekduck.com/events/regidrago-in
+ -5-star-raid-battles-december-2026/
+URL:https://leekduck.com/events/regidrago-in-5-star-raid-battles-december-2
+ 026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/regidrago.jpg
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261209
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 五星團體戰：雷吉鐸拉戈
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-gengar-in-mega-raids-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 超級團體戰：超級耿鬼
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Gengar in Mega Raids\n\nhttps://leekduck.com/events/mega-gengar-in-mega
+ -raids-december-2026/
+URL:https://leekduck.com/events/mega-gengar-in-mega-raids-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261216
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 超級團體戰：超級耿鬼
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unannounced-pokemon-in-5-star-raid-battles-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 五星團體戰：Unannounced Pokémon
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Un
+ announced Pokémon in 5-star Raid Battles\n\nhttps://leekduck.com/events/u
+ nannounced-pokemon-in-5-star-raid-battles-december-2026/
+URL:https://leekduck.com/events/unannounced-pokemon-in-5-star-raid-battles-
+ december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/events-default-i
+ mg.jpg
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261216
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 五星團體戰：Unannounced Pokémon
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ho-oh-in-5-star-raid-battles-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 五星團體戰：鳳王
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Ho
+ -Oh in 5-star Raid Battles\n\nhttps://leekduck.com/events/ho-oh-in-5-star-
+ raid-battles-december-2026/
+URL:https://leekduck.com/events/ho-oh-in-5-star-raid-battles-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/hooh.jpg
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261223
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 五星團體戰：鳳王
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-skarmory-in-mega-raids-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 超級團體戰：超級盔甲鳥
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Skarmory in Mega Raids\n\nhttps://leekduck.com/events/mega-skarmory-in-
+ mega-raids-december-2026/
+URL:https://leekduck.com/events/mega-skarmory-in-mega-raids-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261223
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 超級團體戰：超級盔甲鳥
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lugia-in-5-star-raid-battles-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 五星團體戰：洛奇亞
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Lu
+ gia in 5-star Raid Battles\n\nhttps://leekduck.com/events/lugia-in-5-star-
+ raid-battles-december-2026/
+URL:https://leekduck.com/events/lugia-in-5-star-raid-battles-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/lugia-raids.jpg
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261230
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 五星團體戰：洛奇亞
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-glalie-in-mega-raids-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 超級團體戰：超級冰鬼護
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Glalie in Mega Raids\n\nhttps://leekduck.com/events/mega-glalie-in-mega
+ -raids-december-2026/
+URL:https://leekduck.com/events/mega-glalie-in-mega-raids-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261230
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 超級團體戰：超級冰鬼護
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shadow-dialga-in-shadow-raids-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 暗影團體戰：暗影帝牙盧卡
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Sh
+ adow Dialga in Shadow Raids\n\nhttps://leekduck.com/events/shadow-dialga-i
+ n-shadow-raids-december-2026/
+URL:https://leekduck.com/events/shadow-dialga-in-shadow-raids-december-2026
+ /
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20270106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 暗影團體戰：暗影帝牙盧卡
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mega-falinks-in-mega-raids-december-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 超級團體戰：超級列陣兵
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
+ ga Falinks in Mega Raids\n\nhttps://leekduck.com/events/mega-falinks-in-me
+ ga-raids-december-2026/
+URL:https://leekduck.com/events/mega-falinks-in-mega-raids-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 超級團體戰：超級列陣兵
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-decem
+ ber-2026
+DTSTAMP:20261125T074707Z
+SUMMARY:[團體戰] 五星團體戰：龍捲雲、雷電雲、土地雲（T
+ herian Formes）
+DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：To
+ rnadus\, Thundurus\, and Landorus (Therian Formes) in 5-star Raid Battles\
+ n\nhttps://leekduck.com/events/tornadus-thundurus-landorus-therian-formes-
+ in-5-star-raid-battles-december-2026/
+URL:https://leekduck.com/events/tornadus-thundurus-landorus-therian-formes-
+ in-5-star-raid-battles-december-2026/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/tornadus-thundur
+ us-landorus-go-tour.jpg
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270106
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[團體戰] 五星團體戰：龍捲雲、雷電雲、土地雲
+ （Therian Formes）
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

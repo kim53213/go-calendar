@@ -1,4 +1,8 @@
 {
+    "choose_your_path": {
+        "name": "選擇你的道路",
+        "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__choose_your_path.ics"
+    },
     "community_day": {
         "name": "社群日",
         "url": "github.com\/kim53213\/go-calendar\/releases\/latest\/download\/gocal__community_day.ics"

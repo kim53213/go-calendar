@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260227T091110Z
+DTSTART:20260228T074707Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26
-DTSTAMP:20261124T091110Z
+DTSTAMP:20261125T074707Z
 SUMMARY:[聚焦時刻] 聚焦時刻：嗡蝠
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：No
  ibat Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -40,6 +40,96 @@ DTEND;TZID=Asia/Taipei:20261126T190000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[聚焦時刻] 聚焦時刻：嗡蝠
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-03
+DTSTAMP:20261125T074707Z
+SUMMARY:[聚焦時刻] 聚焦時刻：膽小蟲
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Wi
+ mpod Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
+ 6-12-03/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-03/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Asia/Taipei:20261203T180000
+DTEND;TZID=Asia/Taipei:20261203T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[聚焦時刻] 聚焦時刻：膽小蟲
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-10
+DTSTAMP:20261125T074707Z
+SUMMARY:[聚焦時刻] 聚焦時刻：姆克兒
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：St
+ arly Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
+ 6-12-10/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-10/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Asia/Taipei:20261210T180000
+DTEND;TZID=Asia/Taipei:20261210T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[聚焦時刻] 聚焦時刻：姆克兒
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-17
+DTSTAMP:20261125T074707Z
+SUMMARY:[聚焦時刻] 聚焦時刻：冰寶
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Be
+ rgmite Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour2
+ 026-12-17/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-17/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Asia/Taipei:20261217T180000
+DTEND;TZID=Asia/Taipei:20261217T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[聚焦時刻] 聚焦時刻：冰寶
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-24
+DTSTAMP:20261125T074707Z
+SUMMARY:[聚焦時刻] 聚焦時刻：信使鳥
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：De
+ libird Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour2
+ 026-12-24/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-24/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Asia/Taipei:20261224T180000
+DTEND;TZID=Asia/Taipei:20261224T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[聚焦時刻] 聚焦時刻：信使鳥
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pokemonspotlighthour2026-12-31
+DTSTAMP:20261125T074707Z
+SUMMARY:[聚焦時刻] 聚焦時刻：正電拍拍和負電拍拍
+DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Pl
+ usle and Minun Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotli
+ ghthour2026-12-31/
+URL:https://leekduck.com/events/pokemonspotlighthour2026-12-31/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/pokemonspotlight
+ hour.jpg
+DTSTART;TZID=Asia/Taipei:20261231T180000
+DTEND;TZID=Asia/Taipei:20261231T190000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[聚焦時刻] 聚焦時刻：正電拍拍和負電拍拍
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT

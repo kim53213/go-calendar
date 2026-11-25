@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:season-24-twilight-trails
-DTSTAMP:20261124T091110Z
+DTSTAMP:20261125T074707Z
 SUMMARY:[季節] 暮光小徑
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：Tw
  ilight Trails\n\nhttps://leekduck.com/events/season-24-twilight-trails/
@@ -23,6 +23,25 @@ DTEND;VALUE=DATE:20261202
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:[季節] 暮光小徑
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:season-25-daydream-destinations
+DTSTAMP:20261125T074707Z
+SUMMARY:[季節] Daydream Destinations
+DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：Da
+ ydream Destinations\n\nhttps://leekduck.com/events/season-25-daydream-dest
+ inations/
+URL:https://leekduck.com/events/season-25-daydream-destinations/
+IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/article-images/2
+ 026/2026-12-01-season-25-daydream-destinations/season-25-daydream-destinat
+ ions.jpg
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270302
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[季節] Daydream Destinations
 TRIGGER:-PT15M
 END:VALARM
 END:VEVENT
