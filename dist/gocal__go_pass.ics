@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:go-pass-november-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[通行證] GO通行證：11月
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：GO
   Pass: November\n\nhttps://leekduck.com/events/go-pass-november-2026/
@@ -28,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[通行證] GO通行證：12月
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：GO
   Pass: December\n\nhttps://leekduck.com/events/go-pass-december-2026/

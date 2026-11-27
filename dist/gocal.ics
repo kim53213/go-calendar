@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Asia/Taipei
 BEGIN:STANDARD
-DTSTART:20260228T180000Z
+DTSTART:20260301T180000Z
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:STANDARD
@@ -20,33 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260301T073810Z
+DTSTART:20260302T073630Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20261125
-DTSTAMP:20261126T073810Z
-SUMMARY:[團體戰時間] 團體戰時間：代歐奇希斯（Normal、Defe
- nse、Attack、Speed Formes）
-DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：De
- oxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour\n\nhttps://l
- eekduck.com/events/raidhour20261125/
-URL:https://leekduck.com/events/raidhour20261125/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Asia/Taipei:20261125T180000
-DTEND;TZID=Asia/Taipei:20261125T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[團體戰時間] 團體戰時間：代歐奇希斯（Normal、
- Defense、Attack、Speed Formes）
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：嗡蝠
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：No
  ibat Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -64,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:clefable-super-mega-raid-day-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰日] 超級進化團體戰日：皮可西
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Cl
  efable Super Mega Raid Day\n\nhttps://leekduck.com/events/clefable-super-m
@@ -82,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:twilight-wishes-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] Twilight Wishes
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Tw
  ilight Wishes\n\nhttps://leekduck.com/events/twilight-wishes-2026/
@@ -99,7 +80,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-11-30
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[極巨一] 極巨星期一：極巨幾何雪花
 DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
  namax Cryogonal during Max Monday\n\nhttps://leekduck.com/events/max-monda
@@ -117,7 +98,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-24-twilight-trails
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[季節] 暮光小徑
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：Tw
  ilight Trails\n\nhttps://leekduck.com/events/season-24-twilight-trails/
@@ -134,7 +115,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-november-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[通行證] GO通行證：11月
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：GO
   Pass: November\n\nhttps://leekduck.com/events/go-pass-november-2026/
@@ -151,7 +132,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-tornadus-incarnate-forme-in-shadow-raids-november-16-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 暗影團體戰：暗影龍捲雲（化身形態）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Sh
  adow Tornadus (Incarnate Forme) in Shadow Raids\n\nhttps://leekduck.com/ev
@@ -170,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-novemb
  er-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 五星團體戰：代歐奇希斯（Normal、Defense、
  Attack、Speed Formes）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：De
@@ -192,7 +173,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-metagross-in-mega-raids-november-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 超級團體戰：超級巨金怪
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Metagross in Mega Raids\n\nhttps://leekduck.com/events/mega-metagross-i
@@ -209,7 +190,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261202
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：雷吉鐸拉戈
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Re
  gidrago Raid Hour\n\nhttps://leekduck.com/events/raidhour20261202/
@@ -225,7 +206,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-03
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：膽小蟲
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Wi
  mpod Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -243,7 +224,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gigantamax-inteleon-max-battle-day-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[極巨對戰] 極巨對戰日：超極巨千面避役
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Gi
  gantamax Inteleon Max Battle Day\n\nhttps://leekduck.com/events/gigantamax
@@ -262,7 +243,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:tropical-paradise-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] Tropical Paradise
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Tr
  opical Paradise\n\nhttps://leekduck.com/events/tropical-paradise-2026/
@@ -279,7 +260,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-12-07
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[極巨一] 極巨星期一：極巨單首龍
 DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
  namax Deino during Max Monday\n\nhttps://leekduck.com/events/max-mondays-2
@@ -298,7 +279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-1
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -321,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-slowbro-in-mega-raids-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 超級團體戰：超級呆殼獸
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Slowbro in Mega Raids\n\nhttps://leekduck.com/events/mega-slowbro-in-me
@@ -338,7 +319,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:regidrago-in-5-star-raid-battles-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 五星團體戰：雷吉鐸拉戈
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Re
  gidrago in 5-star Raid Battles\n\nhttps://leekduck.com/events/regidrago-in
@@ -356,7 +337,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261209
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：Unannounced
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Un
  announced Raid Hour\n\nhttps://leekduck.com/events/raidhour20261209/
@@ -372,7 +353,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-10
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：姆克兒
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：St
  arly Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -390,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:december-communityday2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[社群日] 12月社群日 2026
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：De
  cember Community Day 2026\n\nhttps://leekduck.com/events/december-communit
@@ -408,7 +389,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-champions-celebration-event-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] Pokémon Champions 慶典 Event 2026
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Po
  kémon Champions Celebration Event 2026\n\nhttps://leekduck.com/events/pok
@@ -427,7 +408,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-12-14
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[極巨一] 極巨星期一：極巨伊布
 DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
  namax Eevee during Max Monday\n\nhttps://leekduck.com/events/max-mondays-2
@@ -446,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-
  league-edition
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和Mountain 盃：超
  級聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -468,7 +449,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-gengar-in-mega-raids-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 超級團體戰：超級耿鬼
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Gengar in Mega Raids\n\nhttps://leekduck.com/events/mega-gengar-in-mega
@@ -485,7 +466,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-champions-celebration-5-star-raid-battles-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] Pokémon Champions 慶典 5-star 團體戰
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Po
  kémon Champions Celebration 5-star Raid Battles\n\nhttps://leekduck.com/e
@@ -504,7 +485,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261216
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：鳳王
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Ho
  -Oh Raid Hour\n\nhttps://leekduck.com/events/raidhour20261216/
@@ -520,7 +501,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-geminids-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] 小隕星流星雨：雙子座 2026
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Geminids 2026\n\nhttps://leekduck.com/events/minior-showers-
@@ -538,7 +519,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-17
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：冰寶
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Be
  rgmite Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour2
@@ -556,7 +537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰日] 團體戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ra
  id Day\n\nhttps://leekduck.com/events/raid-day-december-2026/
@@ -573,7 +554,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2026-12-15
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[選擇道路] Choose Your Path：Daydream Destinations（12月 15
  、2026）
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ch
@@ -594,7 +575,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-12-21
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[極巨一] 極巨星期一：極巨阿羅拉穿山鼠
 DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
  namax Alolan Sandshrew during Max Monday\n\nhttps://leekduck.com/events/ma
@@ -613,7 +594,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-l
  eague-edition
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 高級聯盟：超級進化版和假日盃：超級
  聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
@@ -635,7 +616,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ho-oh-in-5-star-raid-battles-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 五星團體戰：鳳王
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Ho
  -Oh in 5-star Raid Battles\n\nhttps://leekduck.com/events/ho-oh-in-5-star-
@@ -652,7 +633,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-skarmory-in-mega-raids-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 超級團體戰：超級盔甲鳥
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Skarmory in Mega Raids\n\nhttps://leekduck.com/events/mega-skarmory-in-
@@ -669,7 +650,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261223
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：洛奇亞
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Lu
  gia Raid Hour\n\nhttps://leekduck.com/events/raidhour20261223/
@@ -685,7 +666,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-24
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：信使鳥
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：De
  libird Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour2
@@ -703,7 +684,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hatch-day-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] 孵化日
 DESCRIPTION:開始時間 11:00，結束時間 17:00。\n\n英文原名：Ha
  tch Day\n\nhttps://leekduck.com/events/hatch-day-december-2026/
@@ -720,7 +701,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:winter-holiday-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] 冬季假日 2026
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Wi
  nter Holiday 2026\n\nhttps://leekduck.com/events/winter-holiday-2026/
@@ -737,7 +718,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-mondays-2026-12-28
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[極巨一] 極巨星期一：極巨鯉魚王
 DESCRIPTION:開始時間 06:00，結束時間 21:00。\n\n英文原名：Dy
  namax Magikarp during Max Monday\n\nhttps://leekduck.com/events/max-monday
@@ -756,7 +737,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-
  league-edition
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 大師聯盟：超級進化版和假日盃：超級
  聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
@@ -778,7 +759,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:lugia-in-5-star-raid-battles-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 五星團體戰：洛奇亞
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Lu
  gia in 5-star Raid Battles\n\nhttps://leekduck.com/events/lugia-in-5-star-
@@ -795,7 +776,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-glalie-in-mega-raids-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 超級團體戰：超級冰鬼護
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Glalie in Mega Raids\n\nhttps://leekduck.com/events/mega-glalie-in-mega
@@ -812,7 +793,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261230
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：龍捲雲（靈獸形態）、
  雷電雲（靈獸形態）、土地雲（靈獸形態）
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：To
@@ -831,7 +812,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-31
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：正電拍拍和負電拍拍
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Pl
  usle and Minun Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotli
@@ -849,7 +830,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:duolingo-timed-research-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[限時調查] Pokémon GO和Duolingo 限時調查
 DESCRIPTION:開始時間 10:00，結束時間 23:59。\n\n英文原名：Po
  kémon GO and Duolingo Timed Research\n\nhttps://leekduck.com/events/duoli
@@ -868,7 +849,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[社群日] 1月經典社群日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ja
  nuary Community Day Classic\n\nhttps://leekduck.com/events/january-communi
@@ -885,7 +866,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:new-years-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] New Year's 2027
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ne
  w Year's 2027\n\nhttps://leekduck.com/events/new-years-2027/
@@ -902,7 +883,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:go-pass-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[通行證] GO通行證：12月
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：GO
   Pass: December\n\nhttps://leekduck.com/events/go-pass-december-2026/
@@ -920,7 +901,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-2
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -943,7 +924,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:shadow-dialga-in-shadow-raids-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 暗影團體戰：暗影帝牙盧卡
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Sh
  adow Dialga in Shadow Raids\n\nhttps://leekduck.com/events/shadow-dialga-i
@@ -961,7 +942,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mega-falinks-in-mega-raids-december-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 超級團體戰：超級列陣兵
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：Me
  ga Falinks in Mega Raids\n\nhttps://leekduck.com/events/mega-falinks-in-me
@@ -979,7 +960,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tornadus-thundurus-landorus-therian-formes-in-5-star-raid-battles-decem
  ber-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰] 五星團體戰：龍捲雲、雷電雲、土地雲（T
  herian Formes）
 DESCRIPTION:開始時間 06:00，結束時間 22:00。\n\n英文原名：To
@@ -1001,7 +982,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-january-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰日] 超級進化團體戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Su
  per Mega Raid Day\n\nhttps://leekduck.com/events/super-mega-raid-day-janua
@@ -1020,7 +1001,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-
  league-edition
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和Fighting 盃：超
  級聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -1042,7 +1023,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-x-adidas-2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[調查] adidas × Pokémon 限時調查
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：ad
  idas × Pokémon Timed Research\n\nhttps://leekduck.com/events/pokemon-x-a
@@ -1060,7 +1041,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[社群日] 1月社群日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ja
  nuary Community Day\n\nhttps://leekduck.com/events/january-communityday202
@@ -1077,7 +1058,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-01-12
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[選擇道路] Choose Your Path：Daydream Destinations（1月 12
  、2027）
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ch
@@ -1099,7 +1080,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-le
  ague-edition
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 高級聯盟：超級進化版和Jungle 盃：超級
  聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
@@ -1121,7 +1102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:max-battle-day-january-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[極巨對戰] 極巨對戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ma
  x Battle Day\n\nhttps://leekduck.com/events/max-battle-day-january-2027/
@@ -1138,7 +1119,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_master-league
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 大師聯盟：超級進化版和大師聯盟｜Dayd
  ream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
@@ -1160,7 +1141,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:super-mega-raid-day-january-30-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰日] 超級進化團體戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Su
  per Mega Raid Day\n\nhttps://leekduck.com/events/super-mega-raid-day-janua
@@ -1178,7 +1159,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-01-26
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[選擇道路] Choose Your Path：Daydream Destinations（1月 26
  、2027）
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ch
@@ -1200,7 +1181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-3
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -1223,7 +1204,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[社群日] 2月社群日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Fe
  bruary Community Day\n\nhttps://leekduck.com/events/february-communityday2
@@ -1240,7 +1221,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_master-league
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和大師聯盟｜Dayd
  ream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -1262,7 +1243,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raid-day-february-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰日] 團體戰日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ra
  id Day\n\nhttps://leekduck.com/events/raid-day-february-2027/
@@ -1280,7 +1261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-leag
  ue-edition_2027-go-euic-cup
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 高級聯盟：超級進化版、愛心盃：超級
  聯盟版、2027 GO EUIC 盃｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
@@ -1303,7 +1284,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-kaohsiung-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 高雄 2027
 DESCRIPTION:開始時間 00:00，結束時間 23:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Kaohsiung 2027\n\nhttps://leekduck.com/events/poke
@@ -1321,7 +1302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-02-16
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[選擇道路] Choose Your Path：Daydream Destinations（2月 16
  、2027）
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ch
@@ -1342,7 +1323,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-los-angeles-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 洛杉磯 2027
 DESCRIPTION:開始時間 16:00，結束時間 15:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Los Angeles 2027\n\nhttps://leekduck.com/events/po
@@ -1361,7 +1342,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-gre
  at-league-edition_2027-go-euic-cup
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 大師聯盟：超級進化版、超級捕捉盃：
  超級聯盟版、2027 GO EUIC 盃｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
@@ -1384,7 +1365,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemon-go-tour-alola-global-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[Tour] Pokémon GO Tour：阿羅拉 - 全球 2027
 DESCRIPTION:開始時間 00:00，結束時間 23:59。\n\n英文原名：Po
  kémon GO Tour: Alola - Global 2027\n\nhttps://leekduck.com/events/pokemon
@@ -1402,7 +1383,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:season-25-daydream-destinations
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[季節] Daydream Destinations
 DESCRIPTION:開始時間 10:00，結束時間 10:00。\n\n英文原名：Da
  ydream Destinations\n\nhttps://leekduck.com/events/season-25-daydream-dest
@@ -1422,7 +1403,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition_mega-catch-cup-great-league-edition
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版、超級捕捉盃：超級
  聯盟版｜Daydream Destinations
@@ -1449,7 +1430,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-eta-aquariids-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] 小隕星流星雨：寶瓶座η 2027
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Eta Aquariids 2027\n\nhttps://leekduck.com/events/minior-sho
@@ -1467,7 +1448,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-southern-delta-aquariids-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] 小隕星流星雨：南寶瓶座δ 2027
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Southern Delta Aquariids 2027\n\nhttps://leekduck.com/events
@@ -1486,7 +1467,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:minior-showers-perseids-2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[活動] 小隕星流星雨：英仙座 2027
 DESCRIPTION:開始時間 17:00，結束時間 23:59。\n\n英文原名：Mi
  nior Showers: Perseids 2027\n\nhttps://leekduck.com/events/minior-showers-

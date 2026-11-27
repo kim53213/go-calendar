@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260301T073810Z
+DTSTART:20260302T073630Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:december-communityday2026
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[社群日] 12月社群日 2026
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：De
  cember Community Day 2026\n\nhttps://leekduck.com/events/december-communit
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communitydayclassic2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[社群日] 1月經典社群日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ja
  nuary Community Day Classic\n\nhttps://leekduck.com/events/january-communi
@@ -62,7 +62,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:january-communityday2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[社群日] 1月社群日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Ja
  nuary Community Day\n\nhttps://leekduck.com/events/january-communityday202
@@ -79,7 +79,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:february-communityday2027
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[社群日] 2月社群日
 DESCRIPTION:開始時間 14:00，結束時間 17:00。\n\n英文原名：Fe
  bruary Community Day\n\nhttps://leekduck.com/events/february-communityday2

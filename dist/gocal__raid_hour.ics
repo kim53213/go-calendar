@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VTIMEZONE
 TZID:Asia/Taipei
 BEGIN:STANDARD
-DTSTART:20260228T180000Z
+DTSTART:20260307T180000Z
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:STANDARD
@@ -20,33 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260301T073810Z
+DTSTART:20260302T073630Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:raidhour20261125
-DTSTAMP:20261126T073810Z
-SUMMARY:[團體戰時間] 團體戰時間：代歐奇希斯（Normal、Defe
- nse、Attack、Speed Formes）
-DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：De
- oxys (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour\n\nhttps://l
- eekduck.com/events/raidhour20261125/
-URL:https://leekduck.com/events/raidhour20261125/
-IMAGE;VALUE=URI:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
-DTSTART;TZID=Asia/Taipei:20261125T180000
-DTEND;TZID=Asia/Taipei:20261125T190000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:[團體戰時間] 團體戰時間：代歐奇希斯（Normal、
- Defense、Attack、Speed Formes）
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:raidhour20261202
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：雷吉鐸拉戈
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Re
  gidrago Raid Hour\n\nhttps://leekduck.com/events/raidhour20261202/
@@ -62,7 +43,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261209
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：Unannounced
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Un
  announced Raid Hour\n\nhttps://leekduck.com/events/raidhour20261209/
@@ -78,7 +59,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261216
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：鳳王
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Ho
  -Oh Raid Hour\n\nhttps://leekduck.com/events/raidhour20261216/
@@ -94,7 +75,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261223
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：洛奇亞
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Lu
  gia Raid Hour\n\nhttps://leekduck.com/events/raidhour20261223/
@@ -110,7 +91,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:raidhour20261230
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[團體戰時間] 團體戰時間：龍捲雲（靈獸形態）、
  雷電雲（靈獸形態）、土地雲（靈獸形態）
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：To

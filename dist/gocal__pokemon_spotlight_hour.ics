@@ -20,14 +20,14 @@ END:VTIMEZONE
 BEGIN:VTIMEZONE
 TZID:UTC
 BEGIN:STANDARD
-DTSTART:20260301T073810Z
+DTSTART:20260302T073630Z
 TZOFFSETFROM:+0000
 TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-11-26
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：嗡蝠
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：No
  ibat Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -45,7 +45,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-03
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：膽小蟲
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Wi
  mpod Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -63,7 +63,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-10
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：姆克兒
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：St
  arly Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour202
@@ -81,7 +81,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-17
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：冰寶
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Be
  rgmite Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour2
@@ -99,7 +99,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-24
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：信使鳥
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：De
  libird Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotlighthour2
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pokemonspotlighthour2026-12-31
-DTSTAMP:20261126T073810Z
+DTSTAMP:20261127T073630Z
 SUMMARY:[聚焦時刻] 聚焦時刻：正電拍拍和負電拍拍
 DESCRIPTION:開始時間 18:00，結束時間 19:00。\n\n英文原名：Pl
  usle and Minun Spotlight Hour\n\nhttps://leekduck.com/events/pokemonspotli
