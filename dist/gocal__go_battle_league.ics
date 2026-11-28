@@ -12,7 +12,7 @@ X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-1
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_mountain-cup-great-
  league-edition
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和Mountain 盃：超
  級聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_holiday-cup-great-l
  eague-edition
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 高級聯盟：超級進化版和假日盃：超級
  聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
@@ -82,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_holiday-cup-great-
  league-edition
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 大師聯盟：超級進化版和假日盃：超級
  聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
@@ -105,7 +105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-2
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -129,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_fighting-cup-great-
  league-edition
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和Fighting 盃：超
  級聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -152,7 +152,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_jungle-cup-great-le
  ague-edition
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 高級聯盟：超級進化版和Jungle 盃：超級
  聯盟版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
@@ -174,7 +174,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_master-league
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 大師聯盟：超級進化版和大師聯盟｜Dayd
  ream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
@@ -197,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition-split-3
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -220,7 +220,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_master-league
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版和大師聯盟｜Dayd
  ream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Gr
@@ -243,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_ultra-league-mega-edition_love-cup-great-leag
  ue-edition_2027-go-euic-cup
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 高級聯盟：超級進化版、愛心盃：超級
  聯盟版、2027 GO EUIC 盃｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ul
@@ -267,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_master-league-mega-edition_mega-catch-cup-gre
  at-league-edition_2027-go-euic-cup
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 大師聯盟：超級進化版、超級捕捉盃：
  超級聯盟版、2027 GO EUIC 盃｜Daydream Destinations
 DESCRIPTION:開始時間 05:00，結束時間 05:00。\n\n英文原名：Ma
@@ -291,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gbl-daydream-destinations_great-league-mega-edition_ultra-league-mega-e
  dition_master-league-mega-edition_mega-catch-cup-great-league-edition
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[對戰聯盟] 超級聯盟：超級進化版、高級聯盟：超
  級進化版、大師聯盟：超級進化版、超級捕捉盃：超級
  聯盟版｜Daydream Destinations

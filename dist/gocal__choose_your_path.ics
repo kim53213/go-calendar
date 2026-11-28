@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1440M
 X-PUBLISHED-TTL:PT1440M
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2026-12-15
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[選擇道路] Choose Your Path：Daydream Destinations（12月 15
  、2026）
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ch
@@ -32,7 +32,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-01-12
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[選擇道路] Choose Your Path：Daydream Destinations（1月 12
  、2027）
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ch
@@ -53,7 +53,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-01-26
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[選擇道路] Choose Your Path：Daydream Destinations（1月 26
  、2027）
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ch
@@ -74,7 +74,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:choose-your-path-daydream-destinations-2027-02-16
-DTSTAMP:20261127T073630Z
+DTSTAMP:20261128T070336Z
 SUMMARY:[選擇道路] Choose Your Path：Daydream Destinations（2月 16
  、2027）
 DESCRIPTION:開始時間 10:00，結束時間 20:00。\n\n英文原名：Ch
